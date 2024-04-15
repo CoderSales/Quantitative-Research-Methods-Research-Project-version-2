@@ -15,7 +15,7 @@ Error: one or more packages is already loaded
 ____
 
 ```r
-> install.packages(c('ggplot2'))
+install.packages(c('ggplot2'))
 ```
 
 ____
