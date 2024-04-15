@@ -31,6 +31,8 @@ ____
 
 ## Concepts in paper
 
+### p. 2192
+
 - Markov chain Monte Carlo (MCMC)
 
 from:
