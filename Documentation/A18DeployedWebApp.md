@@ -13,3 +13,11 @@ to change instance type (amount of memory that the deployed app takes) use :
 ```r
 rsconnect::configureApp("APPNAME", size="small")
 ```
+
+____
+
+to terminate app:
+
+```r
+terminateApp("<your app's name>")
+```
