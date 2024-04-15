@@ -16,6 +16,8 @@ and whether or not there is a more updated version that you can download (circle
 
 ![updateRImage](/src/images/installingr_image6.webp)
 
-[If you want to update R and RStudio:](https://www.r-bloggers.com/2022/01/how-to-install-and-update-r-and-rstudio/#:~:text=One%20way%20is%20to%20run,download%20(circled%20in%20blue).)
+[image taken from here](https://www.r-bloggers.com/2022/01/how-to-install-and-update-r-and-rstudio/#:~:text=One%20way%20is%20to%20run,download%20(circled%20in%20blue).)
+
+Text and image taken from here: [If you want to update R and RStudio:](https://www.r-bloggers.com/2022/01/how-to-install-and-update-r-and-rstudio/#:~:text=One%20way%20is%20to%20run,download%20(circled%20in%20blue).)
 
 ____
