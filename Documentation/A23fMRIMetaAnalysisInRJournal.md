@@ -82,3 +82,29 @@ better:
 aws:
 
 [Running R on AWS](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
+
+____
+
+[Creating a cluster with earlier AMI versions of Amazon EMR](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-3x-create.html)
+
+[Installing applications with earlier AMI versions of Amazon EMR](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-3x-install-apps.html)
+
+[Amazon EMR 2.x and 3.x AMI versions](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-3x.html)
+
+[Statistical Analysis with Open-Source R and RStudio on Amazon EMR](https://aws.amazon.com/blogs/big-data/statistical-analysis-with-open-source-r-and-rstudio-on-amazon-emr/)
+
+[Running R on AWS](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
+
+[how to configure r aws](https://www.google.com/search?q=how+to+configure+r+aws&oq=how+to+configure+r+aws&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINTE3NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+Google Search: [aws s3 r](https://www.google.com/search?q=aws+s3+r&oq=aws+s3+r&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQg0NTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+[cloudyr/aws.s3](https://github.com/cloudyr/aws.s3)
+
+
+
+[Console Home](https://us-east-1.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-1)
+
+[aws cli](https://www.google.com/search?q=waws+cli&oq=waws+cli&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQABgKGIMBGLEDGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCDE4MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+
+[Install or update to the latest version of the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
