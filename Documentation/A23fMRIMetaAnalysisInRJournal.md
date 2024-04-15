@@ -70,3 +70,7 @@ ____
 Google Search: [r install aws](https://www.google.com/search?q=r+install+aws&oq=r+install+aws&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMgoIBBAAGIAEGKIEMgYIBRBFGEAyBggGEEUYQNIBCDM0MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
 [AWS S3 Client Package](https://cran.r-project.org/web/packages/aws.s3/readme/README.html)
+
+____
+
+[key management service](https://us-east-1.console.aws.amazon.com/kms/home?region=us-east-1#/kms/home)
