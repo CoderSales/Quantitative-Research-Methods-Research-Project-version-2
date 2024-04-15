@@ -45,3 +45,9 @@ based on the analytical eigendecomposition of the squared exponential periodic
 "
 
 - kernel Hilbert space (RKHS) of the SEP Gaussian process
+
+____
+
+[The R Quest: from Users to Developers | by Simon Urbanek](https://journal.r-project.org/archive/2021/RJ-2021-111/RJ-2021-111.pdf)
+
+____
