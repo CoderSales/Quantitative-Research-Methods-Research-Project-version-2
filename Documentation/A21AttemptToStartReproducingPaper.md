@@ -41,3 +41,5 @@ approach, an efficient Markov chain Monte Carlo (MCMC) sampling is designed
 based on the analytical eigendecomposition of the squared exponential periodic
 (SEP) kernel (see Section 5), for various noise distributions.
 "
+
+- kernel Hilbert space (RKHS) of the SEP Gaussian process
