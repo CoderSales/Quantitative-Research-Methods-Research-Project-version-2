@@ -1,6 +1,6 @@
 # References
 
-[Back to README.md](/)
+[Back to README](/)
 
 ____
 
