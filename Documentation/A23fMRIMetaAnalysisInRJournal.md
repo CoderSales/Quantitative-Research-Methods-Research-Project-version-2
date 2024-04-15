@@ -42,3 +42,9 @@ install.packages(path_to_file, repos = NULL, type="source")
 [How do I install an R package from source? | StackOverflow](https://stackoverflow.com/questions/1474081/how-do-i-install-an-r-package-from-source)
 
 ____
+
+```r
+install.packages("metafor")
+```
+
+[The metafor Package | A Meta-Analysis Package for R | Download and Installation](https://www.metafor-project.org/doku.php/installation)
