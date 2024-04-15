@@ -11,7 +11,7 @@ runExample("01_hello")
 
 ![image](/src/images/Screenshot-2024-04-15-111804-of-WebAppRunningInR.png)
 
-![image](/src/images/Screenshot-2024-04-15-111628-of-Web-App-Working.pngpng)
+![image](/src/images/Screenshot-2024-04-15-111628-of-Web-App-Working.png)
 
 ____
 
