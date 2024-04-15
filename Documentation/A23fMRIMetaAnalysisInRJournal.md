@@ -5,3 +5,22 @@ Google Search: [site: https://journal.r-project.org/archive/ fmri](https://www.g
 [The R Journal: article published in 2014, volume 6:2](https://journal.r-project.org/archive/2014/RJ-2014-020/index.html)
 
 [Coordinate-Based Meta-Analysis of fMRI Studies with R by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf)
+
+____
+
+## Attempt to Run Code
+
+### Code
+
+```r
+library(fmri)
+```
+
+### Code and Error
+
+```r
+> library(fmri)
+Error in library(fmri) : there is no package called ‘fmri’
+```
+
+____
