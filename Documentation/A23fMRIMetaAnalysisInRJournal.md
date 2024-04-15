@@ -32,3 +32,13 @@ ____
 [fmri: Analysis of fMRI Experiments](https://cran.r-project.org/web/packages/fmri/index.html)
 
 ____
+
+Google Search: [how to install r package from file](https://www.google.com/search?q=how+to+install+r+package+from+file&oq=how+to+install+r+package+from+file&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIKCAMQABiABBiiBDIKCAQQABiABBiiBDIGCAUQRRhA0gEINTA4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+```r
+install.packages(path_to_file, repos = NULL, type="source")
+```
+
+[How do I install an R package from source? | StackOverflow](https://stackoverflow.com/questions/1474081/how-do-i-install-an-r-package-from-source)
+
+____
