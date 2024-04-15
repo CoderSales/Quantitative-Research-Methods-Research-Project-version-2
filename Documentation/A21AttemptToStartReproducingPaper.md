@@ -13,3 +13,12 @@ ____
 Li, M. and Ghosal, S.(2015) "Bayesian Detection of Image Boundaries." arXiv 1508.05847.
 
 ____
+____
+
+from above Reference (from previous website) :
+
+Google Search String: [arXiv 1508.05847.](https://www.google.com/search?q=arXiv+1508.05847.&oq=arXiv+1508.05847.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+gives:
+
+[Bayesian Detection of Image Boundaries](https://arxiv.org/abs/1508.05847)
