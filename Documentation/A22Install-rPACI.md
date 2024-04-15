@@ -21,3 +21,9 @@ library("rPACI")
 ```
 
 ____
+
+## References
+
+[Placido Analysis of Corneal Irregularity](https://admaldonado.shinyapps.io/rPACI/_w_b1e9b424/#)
+
+[Workflow of the rPACI package](https://admaldonado.shinyapps.io/rPACI/_w_b1e9b424/www/packageUsage.html)
