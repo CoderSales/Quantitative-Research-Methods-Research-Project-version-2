@@ -78,3 +78,7 @@ ____
 better:
 
 [Authentication and access control for AWS KMS](https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html)
+
+aws:
+
+[Running R on AWS](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
