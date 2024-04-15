@@ -44,6 +44,22 @@ install.packages(path_to_file, repos = NULL, type="source")
 ____
 
 ```r
+> install.packages("C:/Users/steph/Downloads/fmri_1.9.12.tar.gz", repos = NULL, type="source")
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+Installing package into ‘C:/Users/steph/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+ERROR: dependencies 'metafor', 'aws', 'oro.nifti' are not available for package 'fmri'
+* removing 'C:/Users/steph/AppData/Local/R/win-library/4.3/fmri'
+Warning in install.packages :
+  installation of package ‘C:/Users/steph/Downloads/fmri_1.9.12.tar.gz’ had non-zero exit status
+
+```
+
+____
+
+```r
 install.packages("metafor")
 ```
 
