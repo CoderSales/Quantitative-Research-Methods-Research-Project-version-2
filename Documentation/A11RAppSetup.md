@@ -1,6 +1,6 @@
 # R App Setup
 
-from Documentation:
+from [Documentation](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html):
 
 1. create a directory:
 
