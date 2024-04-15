@@ -24,3 +24,5 @@ Error in library(fmri) : there is no package called ‘fmri’
 ```
 
 ____
+
+Google Search: [r install fmri](https://www.google.com/search?q=r+install+fmri&oq=r+install+fmri&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQgyODIzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
