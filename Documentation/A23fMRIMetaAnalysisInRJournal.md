@@ -74,3 +74,7 @@ Google Search: [r install aws](https://www.google.com/search?q=r+install+aws&oq=
 ____
 
 [key management service](https://us-east-1.console.aws.amazon.com/kms/home?region=us-east-1#/kms/home)
+
+better:
+
+[Authentication and access control for AWS KMS](https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html)
