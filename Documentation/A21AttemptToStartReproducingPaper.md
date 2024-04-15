@@ -31,7 +31,7 @@ ____
 
 ## Concepts in paper
 
-### p. 2192
+### [p. 2192](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full)
 
 - Markov chain Monte Carlo (MCMC)
 
