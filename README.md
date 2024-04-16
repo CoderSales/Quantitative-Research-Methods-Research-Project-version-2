@@ -10,6 +10,6 @@ Project idea for analysing (simulated or Kaggle dataset) brain waves (possibly u
 
 [Documentation Folder](/Documentation)
 
-[code in newdir](/newdir)
+[code in newdir](/Rcode/newdir)
 
 [References](/Documentation/A01References.md)
