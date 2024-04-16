@@ -226,4 +226,4 @@ dist
 # 4. custom
 ###########
 
-demo/acc.r
+Rcode/demo/acc.r
