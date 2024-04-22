@@ -97,3 +97,88 @@ Google Search String: [fmri r documentation](https://www.google.com/search?q=fmr
 [WIAS-BERLIN](https://github.com/WIAS-BERLIN)
 
 [WIAS-BERLIN/fmri](https://github.com/WIAS-BERLIN/fmri)
+
+____
+
+from last reference above (GitHub Repository README):
+
+```r
+install.packages("fmri")
+```
+
+prompted to Restart RStudio
+
+RTools Warning Reemerges:
+
+```r
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+```
+
+____
+
+Issue:
+
+```r
+# install.packages("devtools")
+devtools::install_github("muschellij2/fmri")
+```
+
+gives:
+
+```r
+Error in loadNamespace(x) : there is no package called ‘devtools’
+```
+
+____
+
+This works (uncomment devtools installl line.) :
+
+```r
+install.packages("devtools")
+```
+
+Then can do:
+
+```r
+devtools::install_github("muschellij2/fmri")
+```
+
+____
+
+but first:
+
+TODO: try to do install with dependencies command from ealier.
+
+____
+
+#### Plan
+
+(Try to)
+
+Use the *format* of *this* command:
+
+```r
+install.packages('fmri', dependencies = TRUE, repos='http://cran.rstudio.com/')
+```
+
+from:
+
+[01Plan.md](/Documentation/04/01Plan.md)
+
+with *this* command:
+
+```r
+devtools::install_github("muschellij2/fmri")
+```
+
+to get *this* command:
+
+```r
+devtools::install_github("muschellij2/fmri", dependencies = TRUE, repos='https://github.com/WIAS-BERLIN/fmri')
+
+```
+
+Run that last command and see what happens.
+
+____
+
