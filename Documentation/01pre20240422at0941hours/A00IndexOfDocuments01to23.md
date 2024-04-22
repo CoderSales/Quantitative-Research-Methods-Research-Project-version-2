@@ -1,4 +1,4 @@
-# A [00 Index](/Documentation/01pre20240422at0941hours/A00IndexOfDocuments01to23.md)
+# [A00 Index](/Documentation/01pre20240422at0941hours/A00IndexOfDocuments01to23.md)
 
 [A01References.md](/Documentation/01pre20240422at0941hours/A01References.md) | Li, **Ghosal** Reference
 
