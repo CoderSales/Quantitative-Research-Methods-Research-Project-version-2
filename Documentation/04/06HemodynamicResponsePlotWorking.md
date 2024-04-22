@@ -407,3 +407,9 @@ ____
 Google Search String: [r code parser](https://www.google.com/search?q=r+code+parser&oq=r+code+parser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQgyMjYxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 [Chapter 10 Parser | r language definition](https://colinfay.me/r-language-definition/parser.html)
+
+____
+
+Google Search String: [h <- fmri.stimulus](https://www.google.com/search?q=h+%3C-+fmri.stimulus&oq=h+%3C-+fmri.stimulus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEHOTM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+[Package ‘fmri’](https://cran.r-project.org/web/packages/fmri/fmri.pdf)
