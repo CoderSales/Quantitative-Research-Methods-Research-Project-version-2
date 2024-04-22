@@ -403,3 +403,7 @@ from above screenshot:
 <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>A</kbd> - Reformat Current Selection
 
 ____
+
+Google Search String: [r code parser](https://www.google.com/search?q=r+code+parser&oq=r+code+parser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQgyMjYxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+[Chapter 10 Parser | r language definition](https://colinfay.me/r-language-definition/parser.html)
