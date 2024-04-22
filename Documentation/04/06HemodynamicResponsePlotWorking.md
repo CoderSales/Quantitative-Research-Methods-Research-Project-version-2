@@ -514,3 +514,7 @@ ____
 ![Add images with code](/src/images/Screenshot-2024-04-22-170358-Add-images-with-code.png)
 
 ____
+
+![data.frame](/src/images/Screenshot-2024-04-22-170936-data-frame.png)
+
+____
