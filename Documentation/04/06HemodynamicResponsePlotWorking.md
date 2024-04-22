@@ -65,3 +65,9 @@ the amount of *oxygenated blood*
 *present* 
 
 *in every position in space.*"
+
+____
+
+"The BOLD signal is known to vary as a function of neural activity."
+
+____
