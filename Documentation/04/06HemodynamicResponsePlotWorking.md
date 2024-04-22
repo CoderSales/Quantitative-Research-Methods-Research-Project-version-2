@@ -24,9 +24,9 @@ ____
 
 Note: 
 
-Quote: "Each image is made of thousands of almost-cubic elements called voxels."
+Quote: "Each image is made of thousands of almost-cubic elements called **voxels**."
 
-Quote: "The size of a voxel (typically on the order of 3 × 3 × 3 mm) represents the lower limit of the spatial resolution of an image."
+Quote: "The size of a **voxel** (typically on the order of 3 × 3 × 3 mm) represents the *lower limit of the spatial resolution of an image*."
 
 ____
 
