@@ -482,3 +482,10 @@ ____
 ![Better-Hemodynamic-Response-Function](/src/images/Screenshot-2024-04-22-162933-Better-Hemodynamic-Response-Function.png)
 
 ____
+
+Google Search String: [r fmri [WARNING] Deprecated: --self-contained. use --embed-resources --standalone](https://www.google.com/search?q=r+fmri+%5BWARNING%5D+Deprecated%3A+--self-contained.+use+--embed-resources+--standalone&newwindow=1&sca_esv=f4839f9b938815d2&sca_upv=1&sxsrf=ACQVn0-LnfrBTPbPmdM2mclSdpkH17LElQ%3A1713800000436&ei=QIMmZqWeGqinhbIPkI200A0&ved=0ahUKEwilvvfBktaFAxWoU0EAHZAGDdoQ4dUDCBE&uact=5&oq=r+fmri+%5BWARNING%5D+Deprecated%3A+--self-contained.+use+--embed-resources+--standalone&gs_lp=Egxnd3Mtd2l6LXNlcnAiUXIgZm1yaSBbV0FSTklOR10gRGVwcmVjYXRlZDogLS1zZWxmLWNvbnRhaW5lZC4gdXNlIC0tZW1iZWQtcmVzb3VyY2VzIC0tc3RhbmRhbG9uZUgAUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp)
+
+[Warning in R Console about deprecated --self-contained option #12808 | rstudio / rstudio | GitHub.com](https://github.com/rstudio/rstudio/issues/12808)
+
+____
+
