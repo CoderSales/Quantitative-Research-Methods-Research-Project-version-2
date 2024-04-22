@@ -80,7 +80,7 @@ ____
 
 ### Potential Cause:
 
-Workaround previously stated of:
+Workaround (previously stated), of:
 
 removing `rt=0.1` in command.
 
