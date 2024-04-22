@@ -17,5 +17,5 @@ Note: On repetition time, TR
 
 Relevance: workaround outlined in this and previous document.
 
-Quote from Paper (I added emphasis): "The interval between image acquisitions is known as **repetition time** or **TR**, and is typically 2
+Quote from [Paper](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) (I added emphasis): "The interval between image acquisitions is known as **repetition time** or **TR**, and is typically 2
 seconds."
