@@ -10,3 +10,12 @@
 Note: line 2 of above is missing `rt = 0.1` from paper due to technical issue previously outlined.
 
 ![Screenshot of HemodynamicResponse](/src/images/Screenshot-2024-04-22-131522-HemodynamicResponse.png)
+
+____
+
+Note: On repetition time, TR
+
+Relevance: workaround outlined in this and previous document.
+
+Quote from Paper (I added emphasis): "The interval between image acquisitions is known as **repetition time** or **TR**, and is typically 2
+seconds."
