@@ -392,6 +392,14 @@ _# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 ____
 
+RStudio Screenshot:
+
 ![ReformatCurrentSelection](/src/images/Screenshot-2024-04-22-150918-ReformatCurrentSelection.png)
+
+from above screenshot:
+
+<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>P</kbd> - Show Command Palette
+
+<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>A</kbd> - Reformat Current Selection
 
 ____
