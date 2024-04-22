@@ -577,3 +577,45 @@ foci
 ![Create foci](/src/images/Screenshot-2024-04-22-174008-Create-foci.png)
 
 ____
+
+##### Pseudocode
+
+Used:
+
+```r
+hrf <- fmri.stimulus(107, c(18, 48, 78), 15, 2)
+z <- fmri.design(hrf, 2)
+```
+
+from: [Package ‘fmri’ | fmri | Documentation](https://cran.r-project.org/web/packages/fmri/fmri.pdf)
+
+_# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+modifying line 2 to the following pseudocode which is a hybrid between
+
+what is in the [documentation](https://cran.r-project.org/web/packages/fmri/fmri.pdf) and
+
+what is in the [paper](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf):
+
+```r
+h <- fmri.stimulus(107, c(18, 48, 78), 15, 2)
+foci <- fmri.design(h, 2)
+```
+
+____
+
+##### Code
+
+```r
+h <- fmri.stimulus(301, durations = c(0), onsets = c(1), TR = 0.1)`
+```
+
+```r
+foci <- fmri.design(h, 2)
+```
+
+```r
+foci
+```
+
+____
