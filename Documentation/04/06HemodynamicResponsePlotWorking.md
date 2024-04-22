@@ -622,6 +622,8 @@ ____
 
 ## New Search
 
+[fMRI Paper | Coordinate-Based Meta-Analysis of fMRI | Studies with R | by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf)
+
 [CRAN Task View: Medical Image Analysis](https://cran.r-project.org/web/views/MedicalImaging.html)
 
 Google Search String: [Brandon Whitcher, Jon Clayden, John Muschelli](https://www.google.com/search?q=Brandon+Whitcher%2C+Jon+Clayden%2C+John+Muschelli&oq=Brandon+Whitcher%2C+Jon+Clayden%2C+John+Muschelli&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
