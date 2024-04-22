@@ -358,3 +358,13 @@ per [update-r-using-rstudio | StackOverflow](https://stackoverflow.com/questions
 referenced here [A06UpdateR.md](/Documentation/01pre20240422at0941hours/A06UpdateR.md) (second from last reference)
 
 ____
+
+Currently installed:
+
+R for Windows 4.3.3
+
+RStudio
+
+R Tools 4.4
+
+____
