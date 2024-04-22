@@ -525,6 +525,8 @@ Because each image in the orthographic view is a figure in itself, the individua
 by plotting points on top of each image with R’s points function, before proceeding to the next image.
 In the example of Figure 2, the individual foci of activation were stored in a ‘data.frame’ object called
 foci.
+
+```r
 > foci
 x y z Study Type
 1 -30 35 8 Cole Words
@@ -539,6 +541,7 @@ x y z Study Type
 10 -32 20 -4 Ruge Shapes
 11 32 28 -4 Ruge Shapes
 12 -44 48 -8 Stocco Numbers
+```
 
 "
 
