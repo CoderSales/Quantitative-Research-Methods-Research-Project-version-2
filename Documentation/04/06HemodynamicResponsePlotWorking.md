@@ -348,3 +348,13 @@ Next step:
 Reinstall R
 
 ____
+
+from:
+
+[r-project](https://cloud.r-project.org/)
+
+per [update-r-using-rstudio | StackOverflow](https://stackoverflow.com/questions/13656699/update-r-using-rstudio)
+
+referenced here [A06UpdateR.md](/Documentation/01pre20240422at0941hours/A06UpdateR.md) (second from last reference)
+
+____
