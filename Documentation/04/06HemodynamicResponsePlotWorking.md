@@ -1,5 +1,7 @@
 # Hemodynamic Response Plot Working
 
+## Code
+
 ```r
 > h <- fmri.stimulus(301, durations = c(0), # h(t) for instantaneous event at t=0, onsets = c(1), rt = 0.1)
 + onsets = c(1))
