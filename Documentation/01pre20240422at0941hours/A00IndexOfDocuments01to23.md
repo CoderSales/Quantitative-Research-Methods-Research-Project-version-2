@@ -16,30 +16,30 @@ A07RShiny.md | R Shiny | 1 (The) Docs Reference
 
 A08RunShiny.md | 1st run of Shiny | Screenshot Shiny
 
-A09RunShiny2.md
+A09RunShiny2.md | Run Shiny v2 | 2 commands | getwd() | setwd("dir")
 
-A10RunRShinyFromRapp.md
+A10RunRShinyFromRapp.md | Shiny Hello World Code Screenshot
 
-A11RAppSetup.md
+A11RAppSetup.md | Summary of Shiny Hello World
 
-A12RunningRApp.md
+A12RunningRApp.md | Summary cmds to run App.R | setwd(".../newdir") | runapp() 
 
-A13CurrentStatus.md
+A13CurrentStatus.md | Old Status
 
-A14RunAppDotRinRStudio.md
+A14RunAppDotRinRStudio.md | RStudio Screenshot of App.R Running
 
-A15ShinyAppsDotIO.md
+A15ShinyAppsDotIO.md | R Shiny | Web Deployment
 
-A16MaskedPackages.md
+A16MaskedPackages.md | Note blocks on Masked packages
 
-A17RunRShinyDeploy.md
+A17RunRShinyDeploy.md |  `install.packages(c('ggplot2', 'shiny'))` | `install.packages(c('ggplot2'))`
 
-A18DeployedWebApp.md
+A18DeployedWebApp.md | Deployed Web App | rsconnect::configureApp("APPNAME", size="small") | terminateApp("<your app's name>")
 
-A20ReferencesFromMeetingEarlierToday.md
+[A20ReferencesFromMeetingEarlierToday.md](/Documentation/01pre20240422at0941hours/A21AttemptToStartReproducingPaper.md) | **References List**
 
-A21AttemptToStartReproducingPaper.md
+A21AttemptToStartReproducingPaper.md | A Draft of paper between v1 and v2 | v 1.5
 
-A22Install-rPACI.md
+A22Install-rPACI.md 
 
 A23fMRIMetaAnalysisInRJournal.md
