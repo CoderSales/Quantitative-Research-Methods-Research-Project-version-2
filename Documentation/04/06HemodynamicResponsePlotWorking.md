@@ -682,3 +682,16 @@ Google Search String: [install rtools](https://www.google.com/search?q=install+r
 [Rtools43 for Windows](https://cran.r-project.org/bin/windows/Rtools/rtools43/rtools.html)
 
 Download link from cran.r-project.org "Rtools43 may be installed from the [Rtools43 installer.](https://cran.r-project.org/bin/windows/Rtools/rtools43/files/rtools43-5958-5975.exe)"
+
+____
+
+Click to Close RStudio
+
+When Prompted Save open files
+
+Then RStudio closes
+
+Install RTools from Downloads folder from above link (see Rtools43)
+
+Wait for RTools to be installed
+____
