@@ -496,7 +496,7 @@ above lists the following in `Related questions`:
 
 which links to the answer here:
 
-[R knit to HTML and this is error Error: pandoc.exe: [closed]](https://stackoverflow.com/questions/66383067/r-knit-to-html-and-this-is-error-error-pandoc-exe/66387092#66387092)
+[R knit to HTML and this is error Error: pandoc.exe: [closed] | StackOverflow](https://stackoverflow.com/questions/66383067/r-knit-to-html-and-this-is-error-error-pandoc-exe/66387092#66387092)
 
 ____
 
