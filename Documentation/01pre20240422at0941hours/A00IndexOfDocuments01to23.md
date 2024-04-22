@@ -8,7 +8,7 @@
 
 [A04PostMeeting.md](/Documentation/01pre20240422at0941hours/A04PostMeeting.md) | *Update R*
 
-[A05UpdateRRStudio.md](/Documentation/01pre20240422at0941hours/A05UpdateRRStudio.md) | Update RStudio **Screenshot Mac**
+[A05UpdateRRStudio.md](/Documentation/01pre20240422at0941hours/A05UpdateRRStudio.md) | Update RStudio *Screenshot Mac*
 
 [A06UpdateR.md](/Documentation/01pre20240422at0941hours/A06UpdateR.md) | *Update R* | *2 References*
 
