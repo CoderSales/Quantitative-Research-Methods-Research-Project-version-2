@@ -560,6 +560,20 @@ From Docs:
 
 ____
 
+### Code
+
+Rerun code from earlier: `h <- fmri.stimulus(301, durations = c(0), onsets = c(1), TR = 0.1)`
+
+```r
+foci <- fmri.design(h, 2)
+```
+
+```r
+foci
+```
+
+#### Screenshot
+
 ![Create foci](/src/images/Screenshot-2024-04-22-174008-Create-foci.png)
 
 ____
