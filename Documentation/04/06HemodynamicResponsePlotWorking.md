@@ -19,3 +19,11 @@ Relevance: workaround outlined in this and previous document.
 
 Quote from [Stocco 2014](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) Paper (I added emphasis): "The interval between image acquisitions is known as **repetition time** or **TR**, and is typically 2
 seconds."
+
+____
+
+Note: 
+
+Quote: "Each image is made of thousands of almost-cubic elements called voxels."
+
+Quote: "The size of a voxel (typically on the order of 3 × 3 × 3 mm) represents the lower limit of the spatial resolution of an image."
