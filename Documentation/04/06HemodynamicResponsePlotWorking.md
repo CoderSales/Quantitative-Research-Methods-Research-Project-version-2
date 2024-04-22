@@ -95,3 +95,5 @@ Google Search String: [fmri r documentation](https://www.google.com/search?q=fmr
 [WIAS R-packages for imaging / neuroscience](https://www.wias-berlin.de/software/imaging/)
 
 [WIAS-BERLIN](https://github.com/WIAS-BERLIN)
+
+[WIAS-BERLIN/fmri](https://github.com/WIAS-BERLIN/fmri)
