@@ -427,3 +427,9 @@ for: fmri.design(stimulus
 gives: 
 
 ![Ctrl-f-for-fmri-dot-design](/src/images/Screenshot-2024-04-22-152513-Ctrl-f-for-fmri-dot-design.png)
+
+____
+
+![Issue-with-rt](src\images\Screenshot-2024-04-22-160506-Issue-with-rt.png)
+
+____
