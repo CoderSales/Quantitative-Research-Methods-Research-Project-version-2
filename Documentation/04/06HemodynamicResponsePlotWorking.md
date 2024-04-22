@@ -196,3 +196,38 @@ versus
 RTools44 installed
 
 ____
+
+Revert to previous command:
+
+```r
+install.packages("devtools")
+```
+
+gives Output:
+
+```r
+Error in install.packages : Updating loaded packages
+
+Restarting R session...
+```
+
+system re runs the following automatically:
+
+```r
+install.packages("devtools")
+```
+
+resulting in:
+
+```r
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+```
+
+gives location of devtools
+
+____
+
+Extract all
+
+____
+
