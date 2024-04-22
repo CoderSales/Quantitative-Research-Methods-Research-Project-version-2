@@ -515,6 +515,44 @@ ____
 
 ____
 
+From Paper:
+
+"
+
+Plotting the foci
+
+Because each image in the orthographic view is a figure in itself, the individual foci can be visualized
+by plotting points on top of each image with R’s points function, before proceeding to the next image.
+In the example of Figure 2, the individual foci of activation were stored in a ‘data.frame’ object called
+foci.
+> foci
+x y z Study Type
+1 -30 35 8 Cole Words
+2 -46 7 21 Harstra Objects
+3 -40 8 36 Ruge Shapes
+4 36 12 54 Ruge Shapes
+5 -48 28 32 Ruge Shapes
+6 44 32 32 Ruge Shapes
+7 -40 32 16 Ruge Shapes
+8 -40 44 8 Ruge Shapes
+9 40 40 16 Ruge Shapes
+10 -32 20 -4 Ruge Shapes
+11 32 28 -4 Ruge Shapes
+12 -44 48 -8 Stocco Numbers
+
+"
+
+From RStudio:
+
+```r
+> foci
+Error: object 'foci' not found
+```
+
+____
+
+From Docs:
+
 ![data.frame](/src/images/Screenshot-2024-04-22-170936-data-frame.png)
 
 ____
