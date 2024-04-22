@@ -231,3 +231,34 @@ Extract all
 
 ____
 
+Back to paper:
+
+retry:
+
+```r
+library(fmri)
+
+t <- seq(0, 30, 0.1) # from 0 to 30 secs, in increments of 100ms
+```
+
+```r
+h <- fmri.stimulus(301, durations = c(0), # h(t) for instantaneous event at t=0,
+onsets = c(1), rt = 0.1), # Sampled at TR = 0.1 secs
+plot(t, h, type = "l", lwd = 2, col = "red",
+xlab = "Time (secs)", ylab = "h(t)", main = "Hemodynamic Response Function")
+```
+
+```r
+System only takes:
+
+> h <- fmri.stimulus(301, durations = c(0), # h(t) for instantaneous event at t=0,
++                    onsets = c(1), rt = 0.1), # Sampled at TR = 0.1 secs
+```
+
+and gives Error:
+
+```r
+Error: unexpected ',' in:
+"h <- fmri.stimulus(301, durations = c(0), # h(t) for instantaneous event at t=0,
+                   onsets = c(1), rt = 0.1),"
+```
