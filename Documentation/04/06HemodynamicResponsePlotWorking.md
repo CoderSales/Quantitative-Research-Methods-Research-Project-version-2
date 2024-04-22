@@ -523,8 +523,8 @@ Plotting the foci
 
 Because each image in the orthographic view is a figure in itself, the individual foci can be visualized
 by plotting points on top of each image with R’s points function, before proceeding to the next image.
-In the example of Figure 2, the individual foci of activation were stored in a ‘data.frame’ object called
-foci.
+In the example of Figure 2, **the individual foci of activation were stored in a ‘data.frame’ object called
+foci.**
 
 ```r
 > foci
