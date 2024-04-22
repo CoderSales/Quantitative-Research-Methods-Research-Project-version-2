@@ -410,6 +410,10 @@ Google Search String: [r code parser](https://www.google.com/search?q=r+code+par
 
 ____
 
+```blurb
+by K Tabelow · Cited by 104 — Description. Return a design matrix for a linear model with given stimuli and possible polynomial drift terms. Usage fmri.design(stimulus, order ...
+```
+
 Google Search String: [h <- fmri.stimulus](https://www.google.com/search?q=h+%3C-+fmri.stimulus&oq=h+%3C-+fmri.stimulus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEHOTM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 [Package ‘fmri’](https://cran.r-project.org/web/packages/fmri/fmri.pdf)
