@@ -181,3 +181,18 @@ Run that last command and see what happens.
 
 ____
 
+Result of last command:
+
+Downloads GitHub Repository:
+
+![Downloading From GitHub](/src/images/Screenshot-2024-04-22-141030-DownloadingFromGitHub.png)
+
+I stopped installation after download.
+
+Reason: Uses Rtools 4 3 
+
+versus 
+
+RTools44 installed
+
+____
