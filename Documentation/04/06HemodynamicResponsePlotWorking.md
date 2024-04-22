@@ -337,7 +337,7 @@ ____
 
 Still installed are:
 
-RTools 4.4 and RSTudio
+RTools 4.4 and RStudio
 
 left alone for now.
 
