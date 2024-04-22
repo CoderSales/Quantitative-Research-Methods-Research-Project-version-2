@@ -694,4 +694,5 @@ Then RStudio closes
 Install RTools from Downloads folder from above link (see Rtools43)
 
 Wait for RTools to be installed
+
 ____
