@@ -36,9 +36,9 @@ A17RunRShinyDeploy.md |  `install.packages(c('ggplot2', 'shiny'))` | `install.pa
 
 A18DeployedWebApp.md | Deployed Web App | rsconnect::configureApp("APPNAME", size="small") | terminateApp("<your app's name>")
 
-[A20ReferencesFromMeetingEarlierToday.md](/Documentation/01pre20240422at0941hours/A21AttemptToStartReproducingPaper.md) | **References List**
+[A20ReferencesFromMeetingEarlierToday.md](/Documentation/01pre20240422at0941hours/A20ReferencesFromMeetingEarlierToday.md) | **References List**
 
-A21AttemptToStartReproducingPaper.md | A Draft of paper between v1 and v2 | v 1.5
+[A21AttemptToStartReproducingPaper.md](/Documentation/01pre20240422at0941hours/A21AttemptToStartReproducingPaper.md) | A Draft of paper between v1 and v2 | v 1.5
 
 A22Install-rPACI.md 
 
