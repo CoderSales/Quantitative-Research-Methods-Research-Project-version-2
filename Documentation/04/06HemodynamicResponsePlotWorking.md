@@ -445,3 +445,15 @@ From above:
 ```
 
 is an example of the correct syntax for the TR argument (apart from the leading and trailing dots).
+
+____
+
+Fix: change `rt` or `RT` to `TR`:
+
+```r
+> h <- fmri.stimulus(301, durations = c(0), onsets = c(1), RT = 0.1)
+Error in fmri.stimulus(301, durations = c(0), onsets = c(1), RT = 0.1) : 
+  unused argument (RT = 0.1)
+> h <- fmri.stimulus(301, durations = c(0), onsets = c(1), TR = 0.1)
+> 
+```
