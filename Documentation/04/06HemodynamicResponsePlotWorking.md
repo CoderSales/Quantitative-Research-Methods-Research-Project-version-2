@@ -68,6 +68,12 @@ the amount of *oxygenated blood*
 
 ____
 
+"The BOLD signal is known to vary as a function of neural activity."
+
+____
+
+____
+
 ## Issue: Plot not matching with paper on time axis
 
 ![Paper Hemodynamic Response Plot](/src/images/Screenshot-2024-04-22-133944-PaperHemodynamicResponsePlot.png)
