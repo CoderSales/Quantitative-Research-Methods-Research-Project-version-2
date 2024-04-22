@@ -493,7 +493,6 @@ above lists the following in `Related questions`:
 
 [Shiny App to render Rmd with Flexdashboard Output Format shows pandoc document conversion failed with error 1 | StackOverflow](https://stackoverflow.com/questions/67702543/shiny-app-to-render-rmd-with-flexdashboard-output-format-shows-pandoc-document-c?rq=2)
 
-
 which links to the answer here:
 
 [R knit to HTML and this is error Error: pandoc.exe: [closed] | StackOverflow](https://stackoverflow.com/questions/66383067/r-knit-to-html-and-this-is-error-error-pandoc-exe/66387092#66387092)
