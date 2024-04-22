@@ -11,6 +11,8 @@
 
 Note: line 2 of above is missing `rt = 0.1` from paper due to technical issue previously outlined.
 
+## Screenshot (RStudio)
+
 ![Screenshot of HemodynamicResponse](/src/images/Screenshot-2024-04-22-131522-HemodynamicResponse.png)
 
 ____
