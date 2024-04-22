@@ -30,6 +30,4 @@ Quote: "The size of a voxel (typically on the order of 3 × 3 × 3 mm) represent
 
 ____
 
-Quote: "the
-BOLD response to an increase of neural activity at time t = 0 follows a specific time course, which is
-known as the **hemodynamic response function** `h(t)`"
+Quote: "the BOLD response to an increase of neural activity at time t = 0 follows a specific time course, which is known as the **hemodynamic response function** `h(t)`"
