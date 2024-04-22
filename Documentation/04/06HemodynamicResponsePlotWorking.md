@@ -510,3 +510,7 @@ ____
 ![library-oro-nifti](/src/images/Screenshot-2024-04-22-165413-library-oro-nifti.png)
 
 ____
+
+![Add images with code](/src/images/Screenshot-2024-04-22-170358-Add-images-with-code.png)
+
+____
