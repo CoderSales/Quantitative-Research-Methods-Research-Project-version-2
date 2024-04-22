@@ -487,5 +487,7 @@ Google Search String: [r fmri [WARNING] Deprecated: --self-contained. use --embe
 
 [Warning in R Console about deprecated --self-contained option #12808 | rstudio / rstudio | GitHub.com](https://github.com/rstudio/rstudio/issues/12808)
 
+[R Error when saving gt table in R Studio from the viewer | StackOverflow](https://stackoverflow.com/questions/77553242/r-error-when-saving-gt-table-in-r-studio-from-the-viewer)
+
 ____
 
