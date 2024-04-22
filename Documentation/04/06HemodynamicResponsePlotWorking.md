@@ -175,7 +175,6 @@ to get *this* command:
 
 ```r
 devtools::install_github("muschellij2/fmri", dependencies = TRUE, repos='https://github.com/WIAS-BERLIN/fmri')
-
 ```
 
 Run that last command and see what happens.
