@@ -21,3 +21,37 @@ For completeness, the answer is: you can't do that from within RStudio.
 ____
 
 [R for Ecologists (Lesson 1) Installing R and RStudio](https://www.youtube.com/watch?v=YKvkXKeGoa8)
+
+____
+
+Quit RStudio
+
+From: [A06UpdateR.md](/Documentation/01pre20240422at0941hours/A06UpdateR.md)
+
+Add or Remove Programs 
+
+Uninstall R 4.3.3
+
+Are you sure 
+
+Yes
+
+Successful > OK
+
+____
+
+Uninstall R Tools 4.3
+
+____
+
+Ok
+
+____
+
+Still installed are:
+
+RTools 4.4 and RSTudio
+
+left alone for now.
+
+____
