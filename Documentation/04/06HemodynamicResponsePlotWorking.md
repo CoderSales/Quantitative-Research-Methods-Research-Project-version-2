@@ -505,3 +505,8 @@ pandoc seems to be the source of this Warning.
 
 ____
 
+## Continuing with the Paper
+
+![library-oro-nifti](/src/images/Screenshot-2024-04-22-165413-library-oro-nifti.png)
+
+____
