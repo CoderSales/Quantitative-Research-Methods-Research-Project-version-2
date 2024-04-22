@@ -433,3 +433,7 @@ ____
 ![Issue-with-rt](src\images\Screenshot-2024-04-22-160506-Issue-with-rt.png)
 
 ____
+
+![Focused-Image-of-Docs-BOLD-response](/src/images/Screenshot-2024-04-22-161306-Focused-Image-of-Docs-BOLD-response.png)
+
+____
