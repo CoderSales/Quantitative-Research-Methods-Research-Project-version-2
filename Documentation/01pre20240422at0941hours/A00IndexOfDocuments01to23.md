@@ -18,13 +18,13 @@ A08RunShiny.md | 1st run of Shiny | *Screenshot Shiny*
 
 A09RunShiny2.md | Run Shiny v2 | 2 commands | *`getwd()`* | *`setwd("dir")`*
 
-A10RunRShinyFromRapp.md | Shiny Hello World Code Screenshot
+A10RunRShinyFromRapp.md | *Shiny Hello World* Code *Screenshot*
 
-A11RAppSetup.md | Summary of Shiny Hello World
+A11RAppSetup.md | *Summary* of Shiny *Hello World*
 
-A12RunningRApp.md | Summary cmds to run App.R | setwd(".../newdir") | runapp() 
+A12RunningRApp.md | *Summary cmds* to run *App.R* | setwd(".../newdir") | runapp() 
 
-A13CurrentStatus.md | Old Status
+A13CurrentStatus.md | Old *Status*
 
 A14RunAppDotRinRStudio.md | RStudio Screenshot of App.R Running
 
