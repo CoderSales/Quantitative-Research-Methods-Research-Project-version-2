@@ -38,4 +38,6 @@ Quote:
 
 follows a specific time course, 
 
-which is known as the **hemodynamic response function** `h(t)`"
+which is known as 
+
+the **hemodynamic response function** `h(t)`"
