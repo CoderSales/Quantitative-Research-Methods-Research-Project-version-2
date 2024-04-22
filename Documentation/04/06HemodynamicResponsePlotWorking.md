@@ -619,3 +619,14 @@ foci
 ```
 
 ____
+
+## New Search
+
+[CRAN Task View: Medical Image Analysis](https://cran.r-project.org/web/views/MedicalImaging.html)
+
+Google Search String: [Brandon Whitcher, Jon Clayden, John Muschelli](https://www.google.com/search?q=Brandon+Whitcher%2C+Jon+Clayden%2C+John+Muschelli&oq=Brandon+Whitcher%2C+Jon+Clayden%2C+John+Muschelli&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+Result: [Neuroconductor: an R platform for medical imaging analysis ](https://academic.oup.com/biostatistics/article/20/2/218/4791943)
+
+____
+
