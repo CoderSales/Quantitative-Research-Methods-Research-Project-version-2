@@ -294,3 +294,13 @@ Error: Failed to install 'fmri' from GitHub:
   Could not find tools necessary to compile a package
 Call `pkgbuild::check_build_tools(debug = TRUE)` to diagnose the problem.
 ```
+
+```r
+pkgbuild::check_build_tools(debug = TRUE)
+```
+
+Output:
+
+```r
+Your system is ready to build packages!
+```
