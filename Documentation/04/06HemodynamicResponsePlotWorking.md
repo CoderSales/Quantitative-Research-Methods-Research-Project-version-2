@@ -78,8 +78,7 @@ ____
 
 ____
 
-Potential Cause:
-________________
+<u>Potential Cause:</u>
 
 Workaround previously stated of:
 
