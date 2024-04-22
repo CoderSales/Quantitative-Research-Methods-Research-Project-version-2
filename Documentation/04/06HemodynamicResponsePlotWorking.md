@@ -478,3 +478,7 @@ focus:
 where is `--self-contained` used?
 
 ____
+
+![Better-Hemodynamic-Response-Function](/src/images/Screenshot-2024-04-22-162933-Better-Hemodynamic-Response-Function.png)
+
+____
