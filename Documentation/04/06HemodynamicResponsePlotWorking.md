@@ -77,3 +77,11 @@ ____
 ![Paper Hemodynamic Response Plot](/src/images/Screenshot-2024-04-22-133944-PaperHemodynamicResponsePlot.png)
 
 ____
+
+Potential Cause
+
+Workaround previously stated of:
+
+removing `rt=0.1` in command.
+
+____
