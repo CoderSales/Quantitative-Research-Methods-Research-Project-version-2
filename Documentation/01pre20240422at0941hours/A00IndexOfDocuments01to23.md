@@ -34,7 +34,7 @@ A16MaskedPackages.md | *Note blocks on Masked* packages
 
 A17RunRShinyDeploy.md |  `install.packages(c('ggplot2', 'shiny'))` | `install.packages(c('ggplot2'))`
 
-A18DeployedWebApp.md | Deployed Web App | rsconnect::configureApp("APPNAME", size="small") | terminateApp("<your app's name>")
+A18DeployedWebApp.md | Deployed Web App | `rsconnect::configureApp("APPNAME", size="small")` | `terminateApp("<your app's name>")`
 
 [A20ReferencesFromMeetingEarlierToday.md](/Documentation/01pre20240422at0941hours/A20ReferencesFromMeetingEarlierToday.md) | **References List**
 
