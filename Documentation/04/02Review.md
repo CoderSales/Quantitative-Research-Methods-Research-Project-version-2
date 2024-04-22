@@ -18,8 +18,14 @@ However, it detected this was already installed.
 
 Therefore added the default installation location given on reference and by installer
 
-to System Variables > Path
+```bash
+C:\rtools44
+```
+
+to `Windows > System Variables > Path`
 
 .
+
+Solved RTools Warning
 
 ____
