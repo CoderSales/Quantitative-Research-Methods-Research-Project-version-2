@@ -391,3 +391,7 @@ _# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 [Error: unexpected symbol/input/string constant/numeric constant/SPECIAL in my code | StackOverflow](https://stackoverflow.com/questions/25889234/error-unexpected-symbol-input-string-constant-numeric-constant-special-in-my-co)
 
 ____
+
+![ReformatCurrentSelection](/src/images/Screenshot-2024-04-22-150918-ReformatCurrentSelection.png)
+
+____
