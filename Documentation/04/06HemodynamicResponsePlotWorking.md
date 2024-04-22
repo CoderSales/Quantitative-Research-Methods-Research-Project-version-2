@@ -85,3 +85,11 @@ Workaround (previously stated), of:
 removing `rt=0.1` in command.
 
 ____
+
+#### References for fmri r documentation
+
+Google Search String: [fmri r documentation](https://www.google.com/search?q=fmri+r+documentation&newwindow=1&sca_esv=6ab47ddd9796bc0d&sca_upv=1&sxsrf=ACQVn0_l_xD949yxjheWmqk9f-7tIpEz1w%3A1713790269641&ei=PV0mZufcJr-shbIPh_CkqA8&ved=0ahUKEwin7_ah7tWFAxU_VkEAHQc4CfUQ4dUDCBE&uact=5&oq=fmri+r+documentation&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGZtcmkgciBkb2N1bWVudGF0aW9uMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHSJkdUN0VWK4WcAB4ApABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACDZgDAIgGAZAGCJIHATGgBwA&sclient=gws-wiz-serp)
+
+[fmri: Analysis of fMRI Experiments](https://cran.r-project.org/web/packages/fmri/index.html)
+
+[WIAS R-packages for imaging / neuroscience](https://www.wias-berlin.de/software/imaging/)
