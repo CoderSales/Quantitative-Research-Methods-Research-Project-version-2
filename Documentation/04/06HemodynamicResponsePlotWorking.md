@@ -459,3 +459,22 @@ Error in fmri.stimulus(301, durations = c(0), onsets = c(1), RT = 0.1) :
 ```
 
 ____
+
+
+```r
+> plot(t, h, type = "l", lwd = 2, col = "red",
++      xlab = "Time (secs)", ylab = "h(t)", main = "Hemodynamic Response Function")
+> 
+[WARNING] Deprecated: --self-contained. use --embed-resources --standalone
+```
+
+
+focus:
+
+```r
+--self-contained. use --embed-resources --standalone
+```
+
+where is `--self-contained` used?
+
+____
