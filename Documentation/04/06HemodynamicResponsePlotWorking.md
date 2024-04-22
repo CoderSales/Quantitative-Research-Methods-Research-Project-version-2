@@ -93,3 +93,5 @@ Google Search String: [fmri r documentation](https://www.google.com/search?q=fmr
 [fmri: Analysis of fMRI Experiments](https://cran.r-project.org/web/packages/fmri/index.html)
 
 [WIAS R-packages for imaging / neuroscience](https://www.wias-berlin.de/software/imaging/)
+
+[WIAS-BERLIN](https://github.com/WIAS-BERLIN)
