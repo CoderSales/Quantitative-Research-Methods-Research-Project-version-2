@@ -282,3 +282,15 @@ ____
 ____
 
 ![Installing-Rtools4-3](/src/images/Screenshot-2024-04-22-142839-Installing-Rtools4-3.png)
+
+____
+
+As before (not documented last time):
+
+#### Error
+
+```r
+Error: Failed to install 'fmri' from GitHub:
+  Could not find tools necessary to compile a package
+Call `pkgbuild::check_build_tools(debug = TRUE)` to diagnose the problem.
+```
