@@ -368,3 +368,13 @@ RStudio
 R Tools 4.4
 
 ____
+
+Note: 
+
+Possibly needed to add
+
+RTools 43 to path when this was installed
+
+from GitHub earlier
+
+____
