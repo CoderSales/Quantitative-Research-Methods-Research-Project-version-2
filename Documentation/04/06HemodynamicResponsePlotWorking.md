@@ -342,3 +342,9 @@ RTools 4.4 and RStudio
 left alone for now.
 
 ____
+
+Next step:
+
+Reinstall R
+
+____
