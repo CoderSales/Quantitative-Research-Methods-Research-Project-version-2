@@ -663,6 +663,22 @@ WARNING: Rtools is required to build R packages but is not currently installed. 
 
 ____
 
+```r
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+```
+
+From RStudio Output:
+
+```r
+Installing package into 
+'....AppData/Local/R/win-library/4.3'
+```
+
 #### TODO: Add / Check if where RTools installed, if path is correct
 
 
+Google Search String: [install rtools](https://www.google.com/search?q=install+rtools&oq=install+rtools&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQgyODAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+[Rtools43 for Windows](https://cran.r-project.org/bin/windows/Rtools/rtools43/rtools.html)
+
+Download link from cran.r-project.org "Rtools43 may be installed from the [Rtools43 installer.](https://cran.r-project.org/bin/windows/Rtools/rtools43/files/rtools43-5958-5975.exe)"
