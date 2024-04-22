@@ -38,7 +38,7 @@ A18DeployedWebApp.md | Deployed Web App | rsconnect::configureApp("APPNAME", siz
 
 [A20ReferencesFromMeetingEarlierToday.md](/Documentation/01pre20240422at0941hours/A20ReferencesFromMeetingEarlierToday.md) | **References List**
 
-[A21AttemptToStartReproducingPaper.md](/Documentation/01pre20240422at0941hours/A21AttemptToStartReproducingPaper.md) | A Draft of paper between v1 and v2 | v 1.5
+[A21AttemptToStartReproducingPaper.md](/Documentation/01pre20240422at0941hours/A21AttemptToStartReproducingPaper.md) | A **Draft** of paper between v1 and v2 | v 1.5
 
 [A22Install-rPACI.md](/Documentation/01pre20240422at0941hours/A22Install-rPACI.md) | Install **rPACI**
 
