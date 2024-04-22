@@ -17,7 +17,7 @@ Note: On repetition time, TR
 
 Relevance: workaround outlined in this and previous document.
 
-Quote from [Stocco 2014](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) Paper (I added emphasis): "The interval between image acquisitions is known as **repetition time** or **TR**, and is typically 2
+Quote from [Stocco 2014](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) Paper (I added emphasis here and generally): "The interval between image acquisitions is known as **repetition time** or **TR**, and is typically 2
 seconds."
 
 ____
@@ -27,3 +27,9 @@ Note:
 Quote: "Each image is made of thousands of almost-cubic elements called voxels."
 
 Quote: "The size of a voxel (typically on the order of 3 × 3 × 3 mm) represents the lower limit of the spatial resolution of an image."
+
+____
+
+Quote: "the
+BOLD response to an increase of neural activity at time t = 0 follows a specific time course, which is
+known as the **hemodynamic response function** `h(t)`"
