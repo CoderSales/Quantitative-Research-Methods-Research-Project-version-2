@@ -41,3 +41,23 @@ follows a specific time course,
 which is known as 
 
 the **hemodynamic response function** `h(t)`"
+
+____
+
+Quote: (out of order with paper)
+
+"The MRI scanner 
+
+captures brain “activity” only indirectly, 
+
+by measuring the so-called 
+
+**Blood Oxygen-Level Dependent (BOLD) signal**
+
+—that is, 
+
+the amount of *oxygenated blood* 
+
+*present* 
+
+*in every position in space.*"
