@@ -40,6 +40,6 @@ A18DeployedWebApp.md | Deployed Web App | rsconnect::configureApp("APPNAME", siz
 
 [A21AttemptToStartReproducingPaper.md](/Documentation/01pre20240422at0941hours/A21AttemptToStartReproducingPaper.md) | A Draft of paper between v1 and v2 | v 1.5
 
-A22Install-rPACI.md 
+[A22Install-rPACI.md](/Documentation/01pre20240422at0941hours/A22Install-rPACI.md) | Install **rPACI**
 
-A23fMRIMetaAnalysisInRJournal.md
+[A23fMRIMetaAnalysisInRJournal.md](/Documentation/01pre20240422at0941hours/A23fMRIMetaAnalysisInRJournal.md) | **fMRI**
