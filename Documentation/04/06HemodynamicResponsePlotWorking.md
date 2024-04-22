@@ -437,3 +437,11 @@ ____
 ![Focused-Image-of-Docs-BOLD-response](/src/images/Screenshot-2024-04-22-161306-Focused-Image-of-Docs-BOLD-response.png)
 
 ____
+
+From above:
+
+```r
+..., TR = 2, ....
+```
+
+is an example of the correct syntax for the TR argument (apart from the leading and trailing dots).
