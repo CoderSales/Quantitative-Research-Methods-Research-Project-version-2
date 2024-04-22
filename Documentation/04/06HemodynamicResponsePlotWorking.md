@@ -489,5 +489,9 @@ Google Search String: [r fmri [WARNING] Deprecated: --self-contained. use --embe
 
 [R Error when saving gt table in R Studio from the viewer | StackOverflow](https://stackoverflow.com/questions/77553242/r-error-when-saving-gt-table-in-r-studio-from-the-viewer)
 
+above lists the following in `Related questions`:
+
+[Shiny App to render Rmd with Flexdashboard Output Format shows pandoc document conversion failed with error 1 | StackOverflow](https://stackoverflow.com/questions/67702543/shiny-app-to-render-rmd-with-flexdashboard-output-format-shows-pandoc-document-c?rq=2)
+
 ____
 
