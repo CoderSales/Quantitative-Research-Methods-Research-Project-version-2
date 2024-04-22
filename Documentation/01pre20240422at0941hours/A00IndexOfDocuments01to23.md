@@ -1,22 +1,20 @@
 # A 00 Index
 
-A01References.md
+A01References.md | Li, Ghosal Reference
 
-A02PreviousWasCurrentStatus.md
+A02PreviousWasCurrentStatus.md | Old Status
 
-A02PreviousWasCurrentStatus.md
+A03Meeting20240415at0920am.md | fMRI mentioned --> Update R References
 
-A03Meeting20240415at0920am.md
+A04PostMeeting.md | Update R
 
-A04PostMeeting.md
+A05UpdateRRStudio.md | Update RStudio Screenshot Mac
 
-A05UpdateRRStudio.md
+A06UpdateR.md | Update R | 2 References
 
-A06UpdateR.md
+A07RShiny.md | R Shiny | 1 (The) Docs Reference
 
-A07RShiny.md
-
-A08RunShiny.md
+A08RunShiny.md | 1st run of Shiny | Screenshot Shiny
 
 A09RunShiny2.md
 
