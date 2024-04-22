@@ -640,3 +640,29 @@ ____
 > library(neurohcp)
 Error in library(neurohcp) : there is no package called ‘neurohcp’
 ```
+
+____
+
+from earlier:
+
+```r
+install.packages('fmri', dependencies = TRUE, repos='http://cran.rstudio.com/')
+```
+
+modifying above to below input:
+
+```r
+install.packages('neurohcp', dependencies = TRUE, repos='http://cran.rstudio.com/')
+```
+
+output:
+
+```r
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+```
+
+____
+
+#### TODO: Add / Check if where RTools installed, if path is correct
+
+
