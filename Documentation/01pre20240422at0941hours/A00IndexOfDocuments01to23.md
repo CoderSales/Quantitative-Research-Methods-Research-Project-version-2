@@ -26,11 +26,11 @@ A12RunningRApp.md | *Summary cmds* to run *App.R* | setwd(".../newdir") | runapp
 
 A13CurrentStatus.md | Old *Status*
 
-A14RunAppDotRinRStudio.md | RStudio Screenshot of App.R Running
+A14RunAppDotRinRStudio.md | *RStudio Screenshot of App.R Running*
 
-A15ShinyAppsDotIO.md | R Shiny | Web Deployment
+A15ShinyAppsDotIO.md | R Shiny | Web *Deployment*
 
-A16MaskedPackages.md | Note blocks on Masked packages
+A16MaskedPackages.md | *Note blocks on Masked* packages
 
 A17RunRShinyDeploy.md |  `install.packages(c('ggplot2', 'shiny'))` | `install.packages(c('ggplot2'))`
 
