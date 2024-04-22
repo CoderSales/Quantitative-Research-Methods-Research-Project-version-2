@@ -634,3 +634,9 @@ pdf of Paper: [Neuroconductor: an R platform for medical imaging analysis | Bios
 
 ____
 
+### Start trying to run paper R Code
+
+```r
+> library(neurohcp)
+Error in library(neurohcp) : there is no package called ‘neurohcp’
+```
