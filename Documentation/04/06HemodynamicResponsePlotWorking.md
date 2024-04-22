@@ -559,3 +559,7 @@ From Docs:
 ![data.frame](/src/images/Screenshot-2024-04-22-170936-data-frame.png)
 
 ____
+
+![Create foci](/src/images/Screenshot-2024-04-22-174008-Create-foci.png)
+
+____
