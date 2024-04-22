@@ -278,3 +278,7 @@ devtools::install_github("muschellij2/fmri")
 ____
 
 ![DownloadingSecondTime](/src/images/Screenshot-2024-04-22-142518-DownloadingSecondTime.png)
+
+____
+
+![Installing-Rtools4-3](/src/images/Screenshot-2024-04-22-142839-Installing-Rtools4-3.png)
