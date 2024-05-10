@@ -6,7 +6,7 @@ Project idea for analysing (simulated or Kaggle dataset) brain waves (possibly u
 
 ## Content
 
-[CurrentStatus](/Documentation/A13CurrentStatus.md)
+[CurrentStatus](/Documentation/01pre20240422at0941hours/A13CurrentStatus.md)
 
 [Documentation Folder](/Documentation)
 
