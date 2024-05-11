@@ -134,3 +134,10 @@ Relevant code paste from RStudio:
 > 
 ```
 ____
+
+Legend workaround:
+
+```r
+legend(x = "center", legend = l.args, col = l.args$col, pch = l.args$pch)
+```
+____
