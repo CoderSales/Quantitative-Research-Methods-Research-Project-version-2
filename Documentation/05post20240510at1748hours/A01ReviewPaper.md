@@ -152,3 +152,13 @@ Google Search: [legend' is of length 0 r](https://www.google.com/search?q=legend
 [legend {graphics} | R Documentation | Add Legends to Plots](https://stat.ethz.ch/R-manual/R-patched/library/graphics/html/legend.html)
 
 ____
+
+[argument is of length zero error](https://www.statology.org/r-argument-is-of-length-zero/)
+
+____
+
+Google Search: [l.args$legend](https://www.google.com/search?q=l.args%24legend&oq=l.args%24legend&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB7SAQgxNzIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+[Positioning and formatting a legend using the ggplot2 R package (CC141)](https://youtu.be/waezlHy8cS8?t=135)
+
+____
