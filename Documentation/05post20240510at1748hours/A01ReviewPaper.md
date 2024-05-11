@@ -147,6 +147,8 @@ Google Search: [Error: object 'xpd' not found r](https://www.google.com/search?q
 
 ____
 
+Google Search: [legend' is of length 0 r](https://www.google.com/search?q=legend%27+is+of+length+0+r&oq=%27legend%27+is+of+length+0&gs_lcrp=EgZjaHJvbWUqCAgCEAAYFhgeMgYIABBFGDsyBwgBEAAYgAQyCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoFMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIE0gEIMzA4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
 [legend {graphics} | R Documentation | Add Legends to Plots](https://stat.ethz.ch/R-manual/R-patched/library/graphics/html/legend.html)
 
 ____
