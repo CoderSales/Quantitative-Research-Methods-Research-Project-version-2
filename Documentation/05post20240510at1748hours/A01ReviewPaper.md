@@ -146,3 +146,7 @@ legend(x = "center", legend = l.args, col = l.args$col, pch = l.args$pch)
 Google Search: [Error: object 'xpd' not found r](https://www.google.com/search?q=Error%3A+object+%27xpd%27+not+found+r&newwindow=1&sca_esv=b2746cf197726f04&sca_upv=1&sxsrf=ADLYWII6jdUF1b8sx2M3NxVSd4VWbqa5LQ%3A1715386084178&ei=5LY-ZtXCCpqJ7NYPtYms2AU&ved=0ahUKEwjVxMyRp4SGAxWaBNsEHbUEC1sQ4dUDCBA&uact=5&oq=Error%3A+object+%27xpd%27+not+found+r&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0Vycm9yOiBvYmplY3QgJ3hwZCcgbm90IGZvdW5kIHIyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSNoUUOsGWMQKcAF4AZABAJgBwAGgAbUCqgEDMC4yuAEDyAEA-AEBmAIDoALTAsICChAAGLADGNYEGEfCAgcQIxiwAhgnwgIHEAAYgAQYDcICCBAAGAgYDRgewgILEAAYgAQYhgMYigXCAggQABiABBiiBJgDAIgGAZAGCJIHBTEuMS4xoAe3Dg&sclient=gws-wiz-serp)
 
 ____
+
+[legend {graphics} | R Documentation | Add Legends to Plots](https://stat.ethz.ch/R-manual/R-patched/library/graphics/html/legend.html)
+
+____
