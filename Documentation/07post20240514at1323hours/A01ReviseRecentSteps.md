@@ -14,9 +14,19 @@ plot(t, h, type = "l", lwd = 2, col = "red", xlab = "Time (secs)", ylab = "h(t)"
 library(oro.nifti)
 temp <- file.path(tempdir(), "mni_colin27_1998_nifti.zip")
 colin.url <-
-+     "http://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip"
++     "https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip"
 download.file(colin.url, dest = temp)
 ```
+
+Note:
+
+editted from this:
+
+http://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip
+
+to this:
+
+https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip
 
 output:
 
