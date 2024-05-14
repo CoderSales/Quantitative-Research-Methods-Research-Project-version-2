@@ -30,6 +30,8 @@ https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip
 
 output:
 
+ignore thanks to correction above:
+
 ```r
 trying URL 'http://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip'
 Error in download.file(colin.url, dest = temp) : 
@@ -39,6 +41,12 @@ In addition: Warning messages:
   downloaded length 0 != reported length 0
 2: In download.file(colin.url, dest = temp) :
   cannot open URL 'https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip': HTTP status was '403 Forbidden'
+```
+
+Correction:
+
+```r
+colin.url <- "https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip"
 ```
 
 
