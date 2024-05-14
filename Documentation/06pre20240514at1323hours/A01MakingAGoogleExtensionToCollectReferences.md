@@ -1,5 +1,13 @@
 # Making A Google Extension To Collect References
 
+## Refernces
+
+### Reference to original Repository for Extension
+
+[javascript-chrome-extension-2](https://github.com/CoderSales/javascript-chrome-extension-2)
+
+### References used to make extension
+
 [google chrome extensions dev - Google Search](https://www.google.com/search?q=google+chrome+extensions+dev&newwindow=1&sca_esv=722f3a8361f4f734&sca_upv=1&sxsrf=ADLYWIJWtLhSx-d7P8B_zXAJApm0EjTemg%3A1715591133775&ei=3ddBZrf4LuGpxc8PkISQwAc&ved=0ahUKEwj32u6Ao4qGAxXhVPEDHRACBHgQ4dUDCBA&uact=5&oq=google+chrome+extensions+dev&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGdvb2dsZSBjaHJvbWUgZXh0ZW5zaW9ucyBkZXYyCxAAGIAEGJECGIoFMgUQABiABDIFEAAYgAQyCxAAGIAEGJECGIoFMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGBYYHhgPMgYQABgWGB5I6BZQAFidFXABeAGQAQCYAX-gAe0EqgEDMy4zuAEDyAEA-AEBmAIHoAKMBZgDAOIDBRIBMSBAkgcDNC4zoAeoKg&sclient=gws-wiz-serp)
 
 [chrome.management  |  API  |  Chrome for Developers](https://developer.chrome.com/docs/extensions/reference/api/management)
