@@ -83,3 +83,25 @@ of paper.
 
 ____
 
+Plotting the foci
+
+p. 10 of paper
+
+copy and paste this into Excel:
+
+```Excel
+> foci
+x y z Study Type
+1 -30 35 8 Cole Words
+2 -46 7 21 Harstra Objects
+3 -40 8 36 Ruge Shapes
+4 36 12 54 Ruge Shapes
+5 -48 28 32 Ruge Shapes
+6 44 32 32 Ruge Shapes
+7 -40 32 16 Ruge Shapes
+8 -40 44 8 Ruge Shapes
+9 40 40 16 Ruge Shapes
+10 -32 20 -4 Ruge Shapes
+11 32 28 -4 Ruge Shapes
+12 -44 48 -8 Stocco Numbers
+```
