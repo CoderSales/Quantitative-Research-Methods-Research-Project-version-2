@@ -297,7 +297,7 @@ gives:
 
 ____
 
-![Screenshot-2024-05-14-at-210400-approximately-dotted-plots.png](/src/images/Screenshot-2024-05-14-at-210400-approximately-dotted-plots.png)
+![Screenshot-2024-05-14-210400-approximately-dotted-plots.png](/src/images/Screenshot-2024-05-14-210400-approximately-dotted-plots.png)
 
 ____
 
@@ -305,7 +305,7 @@ Redo plot
 
 with correct order:
 
-![Screenshot-2024-05-14-at-210900-approximately-Redo-image-in-correct-order.png](/src/images/Screenshot-2024-05-14-at-210900-approximately-Redo-image-in-correct-order.png)
+![Screenshot-2024-05-14-210900-approximately-Redo-image-in-correct-order.png](/src/images/Screenshot-2024-05-14-210900-approximately-Redo-image-in-correct-order.png)
 
 Figure above shows 3 planes with points
 
