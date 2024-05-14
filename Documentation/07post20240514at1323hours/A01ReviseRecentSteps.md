@@ -72,9 +72,37 @@ Error in readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin.nii")) :
   File(s) not found!
 ```
 
+correction of above:
+
+once downloaded
+
+manually unzip and save to a folder called temp.
+
+____
+
+Then to correct next issue:
+
+create pathToFile variable
+
+pathToFile <- and put path to file in ""
+
+then run the following
+
+replacing `file.path(tempdir()`....
+
+with: `file.path(pathToFile`....
+
 ```r
 mask <- readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin_mask.nii"))
 ```
+
+like this:
+
+```r
+mask <- readNIfTI(file.path(pathToFile, "colin27_t1_tal_lin_mask.nii"))
+```
+
+fixes the following:
 
 output:
 
@@ -203,25 +231,50 @@ Some data wrangling / iterative attempts required here.
 [52] Ruge.5   Shapes.5 X9       X40      X40.1    X16.1    Ruge.6   Shapes.6 X10      X.32     X20      X.4      Ruge.7   Shapes.7 X11      X32.4    X28.1   
 [69] X.4.1    Ruge.8   Shapes.8 X12.1    X.44     X48      X.8      Stocco   Numbers 
 <0 rows> (or 0-length row.names)
-> # Transforms the coordinates
-> im.foci <- mni2xyz(foci[1:3])
-> 
-> # Normalizes
-> im.foci <- sweep(im.foci, 2, dim(colin), "/")
-> image(colin[, center["y"], ], col = greys) # Coronal
-> points(x = im.foci[,"x"], y = im.foci[,"z"], lwd = 2, col = "red")
+```
+
+
+```r
+# Transforms the coordinates
+im.foci <- mni2xyz(foci[1:3])
+
+# Normalizes
+im.foci <- sweep(im.foci, 2, dim(colin), "/")
+image(colin[, center["y"], ], col = greys) # Coronal
+points(x = im.foci[,"x"], y = im.foci[,"z"], lwd = 2, col = "red")
+```
+
+Assume errors no longer a factor from here on (since sorted folder file and dataframe)
+
+```r
 Error in `[.data.frame`(im.foci, , "x") : undefined columns selected
-> image(colin[center["x"], , ], col = greys) # Sagittal
-> points(x = im.foci[,"y"], y = im.foci[,"z"], lwd = 2, col = "red")
+```
+
+```r
+image(colin[center["x"], , ], col = greys) # Sagittal
+points(x = im.foci[,"y"], y = im.foci[,"z"], lwd = 2, col = "red")
+```
+
+```r
 Error in `[.data.frame`(im.foci, , "y") : undefined columns selected
-> image(colin[, , center["z"]], col = greys) # Axial
-> points(x = im.foci[,"x"], y = im.foci[,"y"], lwd = 2, col = "red")
+```
+
+```r
+image(colin[, , center["z"]], col = greys) # Axial
+points(x = im.foci[,"x"], y = im.foci[,"y"], lwd = 2, col = "red")
+```
+
+
+```r
 Error in `[.data.frame`(im.foci, , "x") : undefined columns selected
-> im.foci <- mni2xyz(foci[1:3])
-> center <- round(colMeans(im.foci), 0)
-> # Normalizes
-> im.foci <- sweep(im.foci, 2, dim(colin), "/")
-> CF <- colMeans(im.foci)
+```
+
+```r
+im.foci <- mni2xyz(foci[1:3])
+center <- round(colMeans(im.foci), 0)
+# Normalizes
+im.foci <- sweep(im.foci, 2, dim(colin), "/")
+CF <- colMeans(im.foci)
 ```
 
 ____
@@ -229,6 +282,22 @@ ____
 ![Screenshot-2024-05-14-200900-Redo-plots-from-clipboard](/src/images/Screenshot-2024-05-14-200900-Redo-plots-from-clipboard.png)
 
 Figure above has Redo plots from clipboard Screenshot
+
+____
+
+Redo plots
+
+with sorted
+
+folder files and dataframe (foci)
+
+____
+
+gives:
+
+____
+
+![Screenshot-2024-05-14-at-210400-approximately-dotted-plots.png](/src/images/Screenshot-2024-05-14-at-210400-approximately-dotted-plots.png)
 
 ____
 
