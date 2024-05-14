@@ -301,3 +301,12 @@ ____
 
 ____
 
+Redo plot 
+
+with correct order:
+
+![Screenshot-2024-05-14-at-210900-approximately-Redo-image-in-correct-order.png](/src/images/Screenshot-2024-05-14-at-210900-approximately-Redo-image-in-correct-order.png)
+
+Figure above shows 3 planes with points
+
+____
