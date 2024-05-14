@@ -314,3 +314,53 @@ ____
 ![Screenshot-2024-05-14-211500-approximately-Screenshot-with-3-planes-and-paper](/src/images/Screenshot-2024-05-14-211500-approximately-Screenshot-with-3-planes-and-paper.png)
 
 Figure above shows 3 planes with later code in paper including the paper itself
+
+____
+
+some code not included in this transcript from the paper, but entered in RStudio
+
+____
+
+Use Notepad or any basic text editor to complete the following:
+
+Adding partial code for points into original code (both from paper) :
+
+```r
+# Coronal view code
+
+par(mar = c(0.1, 2, 2, 0.1)) # Coronal
+image(colin[, center["y"], ], ann = FALSE, axes = FALSE, col = greys)
+axis(2, pos = 0, at = ticks[,"z"], labels = labels)
+axis(3, pos = 1, at = ticks[,"x"], labels = labels)
+abline(v = CF["x"], h = CF["z"], lty = 2, lwd = 2, col = "white")
+points(x = im.foci[, "x"], y = im.foci[,"z"], lwd = 2, pch = foci.marks, col = foci.colors)
+
+
+
+
+
+par(mar = c(0.1, 0.1, 2, 2)) # Sagittal
+image(colin[center["x"], , ], ann = FALSE, axes = FALSE, col = greys)
+axis(3, pos = 1, at = ticks[,"y"], labels = labels)
+axis(4, pos = 1, at = ticks[,"z"], labels = labels)
+abline(v = CF["y"], h = CF["z"], lty = 2, lwd = 2, col = "white")
+points(x = im.foci[, "y"], y = im.foci[,"z"], lwd = 2, pch = foci.marks, col = foci.colors)
+
+
+
+par(mar = c(2, 2, 0.1, 0.1)) # Axial
+image(colin[, , center["z"]], ann = FALSE, axes = FALSE, col = greys)
+axis(1, pos = 0, at = ticks[,"x"], labels = labels)
+axis(2, pos = 0, at = ticks[,"y"], labels = labels)
+
+abline(v = CF["x"], h = CF["y"], lty = 2, lwd = 2, col = "white")
+points(x = im.foci[, "x"], y = im.foci[,"y"], lwd = 2, pch = foci.marks, col = foci.colors)
+```
+
+____
+
+![Screenshot-2024-05-14-212900-approximately-towards-last-line-of-paper.png](/src/images/Screenshot-2024-05-14-212900-approximately-towards-last-line-of-paper.png)
+
+Figure above shows plots with later code from paper, but with Error in legend.
+
+____
