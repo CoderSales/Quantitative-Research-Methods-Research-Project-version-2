@@ -94,10 +94,6 @@ ____
 console.log(`First name: ${var1}, last name: ${var2}`);
 ```
 
-<code>
-console.log(`First name: ${var1}, last name: ${var2}`);
-</code>
-
 [How to give two arguments in console.log()? | sitepoint.com](https://www.sitepoint.com/community/t/how-to-give-two-arguments-in-console-log/264955)
 
 ____
