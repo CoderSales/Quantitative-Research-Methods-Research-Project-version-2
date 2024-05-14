@@ -19,16 +19,16 @@ temp <- file.path(tempdir(), "mni_colin27_1998_nifti.zip")
 
 Erroneous code:
 
-```r
 colin.url <-
 +     "https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip"
 download.file(colin.url, dest = temp)
-```
+
 
 Correction:
 
 ```r
 colin.url <- "https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip"
+download.file(colin.url, dest = temp)
 ```
 
 See note at end of next few lines:
@@ -87,6 +87,9 @@ origin <- c(x = 91, y = 126, z = 72)
 mni2xyz <- function(x) sweep(x, 2, as.double(origin), "+")
 
 xyz2mni <- function(x) sweep(x, 2, as.double(origin), "-")
+```
+
+```r
 layout(matrix(1:4, ncol = 2, byrow = TRUE),
 +        heights = c(181, 217),
 +        widths = c(181, 217))
