@@ -133,4 +133,51 @@ x y z Study Type
 
 following paper combined with previous review documented here: [Documentation / ... / A01ReviewPaper.md](/Documentation/05post20240510at1748hours/A01ReviewPaper.md)
 
+____
+
+Some data wrangling / iterative attempts required here.
+
+```r
+> df<-read.delim("clipboard")
+> foci <- df
+> head(foci)
+[1] x.y.z.Study.Type.1..30.35.8.Cole.Words.2..46.7.21.Harstra.Objects.3..40.8.36.Ruge.Shapes.4.36.12.54.Ruge.Shapes.5..48.28.32.Ruge.Shapes.6.44.32.32.Ruge.Shapes.7..40.32.16.Ruge.Shapes.8..40.44.8.Ruge.Shapes.9.40.40.16.Ruge.Shapes.10..32.20..4.Ruge.Shapes.11.32.28..4.Ruge.Shapes.12..44.48..8.Stocco.Numbers
+<0 rows> (or 0-length row.names)
+> df1 <- read.delim("clipboard", sep = " ")
+> foci <- df1
+> head(foci)
+ [1] x        y        z        Study    Type     X1       X.30     X35      X8       Cole     Words    X2       X.46     X7       X21      Harstra  Objects 
+[18] X3       X.40     X8.1     X36      Ruge     Shapes   X4       X36.1    X12      X54      Ruge.1   Shapes.1 X5       X.48     X28      X32      Ruge.2  
+[35] Shapes.2 X6       X44      X32.1    X32.2    Ruge.3   Shapes.3 X7.1     X.40.1   X32.3    X16      Ruge.4   Shapes.4 X8.2     X.40.2   X44.1    X8.3    
+[52] Ruge.5   Shapes.5 X9       X40      X40.1    X16.1    Ruge.6   Shapes.6 X10      X.32     X20      X.4      Ruge.7   Shapes.7 X11      X32.4    X28.1   
+[69] X.4.1    Ruge.8   Shapes.8 X12.1    X.44     X48      X.8      Stocco   Numbers 
+<0 rows> (or 0-length row.names)
+> # Transforms the coordinates
+> im.foci <- mni2xyz(foci[1:3])
+> 
+> # Normalizes
+> im.foci <- sweep(im.foci, 2, dim(colin), "/")
+> image(colin[, center["y"], ], col = greys) # Coronal
+> points(x = im.foci[,"x"], y = im.foci[,"z"], lwd = 2, col = "red")
+Error in `[.data.frame`(im.foci, , "x") : undefined columns selected
+> image(colin[center["x"], , ], col = greys) # Sagittal
+> points(x = im.foci[,"y"], y = im.foci[,"z"], lwd = 2, col = "red")
+Error in `[.data.frame`(im.foci, , "y") : undefined columns selected
+> image(colin[, , center["z"]], col = greys) # Axial
+> points(x = im.foci[,"x"], y = im.foci[,"y"], lwd = 2, col = "red")
+Error in `[.data.frame`(im.foci, , "x") : undefined columns selected
+> im.foci <- mni2xyz(foci[1:3])
+> center <- round(colMeans(im.foci), 0)
+> # Normalizes
+> im.foci <- sweep(im.foci, 2, dim(colin), "/")
+> CF <- colMeans(im.foci)
+```
+
+____
+
+![Screenshot-2024-05-14-200900-Redo-plots-from-clipboard](/src/images/Screenshot-2024-05-14-200900-Redo-plots-from-clipboard.png)
+
+Figure above has Redo plots from clipboard Screenshot
+
+____
 
