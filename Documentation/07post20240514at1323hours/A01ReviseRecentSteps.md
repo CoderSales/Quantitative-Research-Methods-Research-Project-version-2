@@ -310,3 +310,7 @@ with correct order:
 Figure above shows 3 planes with points
 
 ____
+
+![Screenshot-2024-05-14-211500-approximately-Screenshot-with-3-planes-and-paper](/src/images/Screenshot-2024-05-14-211500-approximately-Screenshot-with-3-planes-and-paper.png)
+
+Figure above shows 3 planes with later code in paper including the paper itself
