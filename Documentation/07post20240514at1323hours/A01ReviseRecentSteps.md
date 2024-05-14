@@ -130,3 +130,7 @@ x y z Study Type
 ```r
 > df<-read.delim("clipboard")
 ```
+
+following paper combined with previous review documented here: [Documentation / ... / A01ReviewPaper.md](/Documentation/05post20240510at1748hours/A01ReviewPaper.md)
+
+
