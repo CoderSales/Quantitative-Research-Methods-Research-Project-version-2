@@ -7,15 +7,20 @@ ____
 ____
 
 ```r
-> library(fmri)
-> t <- seq(0, 30, 0.1) # from 0 to 30 secs, in increments of 100ms
-> h <- fmri.stimulus(301, durations = c(0), onsets = c(1), TR = 0.1)
-> plot(t, h, type = "l", lwd = 2, col = "red", xlab = "Time (secs)", ylab = "h(t)", main = "Hemodynamic Response Function")
-> library(oro.nifti)
-> temp <- file.path(tempdir(), "mni_colin27_1998_nifti.zip")
-> colin.url <-
+library(fmri)
+t <- seq(0, 30, 0.1) # from 0 to 30 secs, in increments of 100ms
+h <- fmri.stimulus(301, durations = c(0), onsets = c(1), TR = 0.1)
+plot(t, h, type = "l", lwd = 2, col = "red", xlab = "Time (secs)", ylab = "h(t)", main = "Hemodynamic Response Function")
+library(oro.nifti)
+temp <- file.path(tempdir(), "mni_colin27_1998_nifti.zip")
+colin.url <-
 +     "http://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip"
-> download.file(colin.url, dest = temp)
+download.file(colin.url, dest = temp)
+```
+
+output:
+
+```r
 trying URL 'http://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip'
 Error in download.file(colin.url, dest = temp) : 
   cannot open URL 'http://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip'
@@ -24,31 +29,57 @@ In addition: Warning messages:
   downloaded length 0 != reported length 0
 2: In download.file(colin.url, dest = temp) :
   cannot open URL 'https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip': HTTP status was '403 Forbidden'
-> unzip(temp, exdir = tempdir())
+```
+
+
+```r
+unzip(temp, exdir = tempdir())
+```
+
+output:
+
+```r
 Warning message:
 In unzip(temp, exdir = tempdir()) : error 1 in extracting from zip file
-> colin <- readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin.nii"))
+```
+
+colin <- readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin.nii"))
+
+output:
+
+```r
 Error in readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin.nii")) : 
   File(s) not found!
-> mask <- readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin_mask.nii"))
+```
+
+```r
+mask <- readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin_mask.nii"))
+```
+
+output:
+
+```r
 Error in readNIfTI(file.path(tempdir(), "colin27_t1_tal_lin_mask.nii")) : 
   File(s) not found!
-> colin <- colin * mask
-> origin <- c(x = 91, y = 126, z = 72)
-> mni2xyz <- function(x) sweep(x, 2, as.double(origin), "+")
-> 
-> xyz2mni <- function(x) sweep(x, 2, as.double(origin), "-")
-> layout(matrix(1:4, ncol = 2, byrow = TRUE),
+```
+
+```r
+colin <- colin * mask
+origin <- c(x = 91, y = 126, z = 72)
+mni2xyz <- function(x) sweep(x, 2, as.double(origin), "+")
+
+xyz2mni <- function(x) sweep(x, 2, as.double(origin), "-")
+layout(matrix(1:4, ncol = 2, byrow = TRUE),
 +        heights = c(181, 217),
 +        widths = c(181, 217))
-> layout.show(4)
-> center <- origin
-> greys <- grey(1:max(colin) / max(colin))
-> par(mar = c(2, 2, 2, 2))
-> image(colin[, center["x"], ], col = greys) # Coronal
-> image(colin[center["y"], , ], col = greys) # Sagittal
-> image(colin[, , center["z"]], col = greys) # Axial
-> plot.new() # Empty quadrant
+layout.show(4)
+center <- origin
+greys <- grey(1:max(colin) / max(colin))
+par(mar = c(2, 2, 2, 2))
+image(colin[, center["x"], ], col = greys) # Coronal
+image(colin[center["y"], , ], col = greys) # Sagittal
+image(colin[, , center["z"]], col = greys) # Axial
+plot.new() # Empty quadrant
 ```
 
 ____
