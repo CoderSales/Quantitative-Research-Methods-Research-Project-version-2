@@ -54,6 +54,8 @@ colin.url <- "https://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_
 unzip(temp, exdir = tempdir())
 ```
 
+corrections mean the following Warning message no longer applies:
+
 output:
 
 ```r
