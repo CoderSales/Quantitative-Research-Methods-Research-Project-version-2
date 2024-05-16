@@ -140,4 +140,8 @@ ____
 
 Continuing with: [Getting Data from the Human Connectome Project (HCP)](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
 
+```r
+head(ids_with_dwi)
+```
+
 ____
