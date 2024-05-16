@@ -296,3 +296,17 @@ Note: code still contains one instance of %>% operator
 
 ____
 
+Revisit Earlier stackoverflow answer:
+
+Content:
+
+You need to load a package (like magrittr or dplyr) that defines the function first, then it should work.
+
+```r
+install.packages("magrittr") # package installations are only needed the first time you use it
+install.packages("dplyr")    # alternative installation of the %>%
+library(magrittr) # needs to be run every time you start R and want to use %>%
+library(dplyr)    # alternatively, this also loads %>%
+```
+
+Reference: stackoverflow: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
