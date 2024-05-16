@@ -125,3 +125,18 @@ ____
 [Package ‘neurohcp’](https://cran.r-project.org/web/packages/neurohcp/neurohcp.pdf)
 
 ____
+
+Code from page 7 of above package docs:
+
+```r
+hcp_ids(group = c("HCP", "HCP_900", "HCP_1200", "HCP_Retest"))
+```
+
+Error:
+
+```r
+Error in hcp_list_files(prefix = prefix, delimiter = "/") : 
+  Forbidden (HTTP 403).
+```
+
+____
