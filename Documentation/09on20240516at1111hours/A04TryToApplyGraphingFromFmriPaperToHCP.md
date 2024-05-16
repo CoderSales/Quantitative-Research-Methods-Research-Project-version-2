@@ -116,4 +116,8 @@ package url convention Requested on docs:
 
 Please use the canonical form [https://CRAN.R-project.org/package=neurohcp](https://CRAN.R-project.org/package=neurohcp) to link to this page.
 
+links to:
+
+HCP webpage: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
+
 ____
