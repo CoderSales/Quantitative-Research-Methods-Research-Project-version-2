@@ -289,3 +289,13 @@ Citations given:
 
 ____
 
+So,
+
+from:
+
+[Installing Neuroconductor Packages](https://neuroconductor.org/tutorials/install)
+
+```r
+## try http:// if https:// URLs are supported
+source("https://neuroconductor.org/neurocLite.R")
+```
