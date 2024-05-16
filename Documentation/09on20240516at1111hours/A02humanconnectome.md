@@ -100,6 +100,12 @@ ids_with_dwi = hcp_900_scanning_info %>%
 + unique
 ```
 
+#### Error: [Resolved]
+
+```r
+  could not find function "%>%"
+```
+
 ____
 
 [Fix]:
