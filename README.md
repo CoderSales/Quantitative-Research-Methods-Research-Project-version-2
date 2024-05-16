@@ -13,3 +13,13 @@ Project idea for analysing (simulated or Kaggle dataset) brain waves (possibly u
 [code in newdir](/Rcode/newdir)
 
 [References](/Documentation/01pre20240422at0941hours/A01References.md)
+
+____
+
+Key Documents:
+
+[A02humanconnectome.md](/Documentation/09on20240516at1111hours/A02humanconnectome.md)
+
+- Documents running code from: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
+
+____
