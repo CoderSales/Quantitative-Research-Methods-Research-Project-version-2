@@ -261,3 +261,31 @@ ____
 Another package:
 
 [Installing Neuroconductor Packages](https://neuroconductor.org/tutorials/install)
+
+____
+
+Google Search: [Neuroconductor](https://www.google.com/search?q=Neuroconductor&sourceid=chrome&ie=UTF-8)
+
+Result: [About Neuroconductor](https://neuroconductor.org/)
+
+Citations given:
+
+- [Neuroconductor Citation](https://neuroconductor.org/cite)
+
+    - Biostatistics paper: [Neuroconductor: an R platform for medical imaging analysis ](https://academic.oup.com/biostatistics/article/20/2/218/4791943?login=false)
+
+    - Pubmed link: [Neuroconductor: an R platform for medical imaging analysis](https://pubmed.ncbi.nlm.nih.gov/29325029/)
+
+    - BibTex:
+      ```BibTex
+      @Article{pmid29325029,
+        Author={Muschelli, J. and Gherman, A. and Fortin, J. P. and Avants, B. and Whitcher, B. and Clayden, J. D. and Caffo, B. S. and Crainiceanu, C. M. },
+        Title={{N}euroconductor: an {R} platform for medical imaging analysis},
+        Journal={Biostatistics},
+        Year={2018},
+        Month={Jan}
+        }
+      ```
+
+____
+
