@@ -86,3 +86,24 @@ points to repository for neurohcp package:
 [muschellij2/neurohcp](https://github.com/muschellij2/neurohcp)
 
 ____
+
+from above repository:
+
+```r
+# install.packages("devtools")
+devtools::install_github("muschellij2/hcp")
+```
+
+To update all packages:
+
+```r
+1
+```
+
+Warning:
+
+```r
+Warning: package ‘neurohcp’ is in use and will not be installed
+```
+
+____
