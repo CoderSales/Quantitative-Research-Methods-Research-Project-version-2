@@ -146,3 +146,7 @@ Docs | neurohcp [neurohcp: Human 'Connectome' Project Interface](https://rdrr.io
 allows neruohcp to run in browser
 
 ____
+
+[API for neurohcp](https://rdrr.io/cran/neurohcp/api/)
+
+____
