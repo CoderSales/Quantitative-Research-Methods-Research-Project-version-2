@@ -209,3 +209,11 @@ Google Search: [Error in hcp_list_files(prefix = prefix, delimiter = delimiter, 
 result: stackoverflow [Trouble downloading S3 bucket objects through boto3. Error 403 HeadObject: Forbidden](https://stackoverflow.com/questions/59615713/trouble-downloading-s3-bucket-objects-through-boto3-error-403-headobject-forbi)
 
 ____
+
+aws keys
+
+____
+
+Fix error
+
+____
