@@ -100,7 +100,7 @@ ids_with_dwi = hcp_900_scanning_info %>%
 + unique
 ```
 
-#### Error:
+#### Error: (Note: [Resolved] (see later in document) )
 
 ```r
   could not find function "%>%"
@@ -366,3 +366,47 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, unio
 ```
+
+____
+
+Repaste original command after installing 2 packages:
+
+```r
+> ids_with_dwi = hcp_900_scanning_info %>% 
++     + filter(scan_type %in% "dMRI") %>%
++     + select(id) %>%
++     + unique
+```
+
+Error:
+
+```r
+Error: object 'scan_type' not found
+```
+
+____
+
+[Fix]:
+
+Part 1: (Previously done): install 2 packages:
+
+```r
+install.packages("magrittr") # package installations are only needed the first time you use it
+install.packages("dplyr")    # alternative installation of the %>%
+library(magrittr) # needs to be run every time you start R and want to use %>%
+library(dplyr)    # alternatively, this also loads %>%
+```
+
+Part 2: Repaste original code correctly formatted:
+
+```r
+ids_with_dwi = hcp_900_scanning_info %>% 
+    + filter(scan_type %in% "dMRI") %>%
+    + select(id) %>%
+    + unique
+Error: object 'scan_type' not found
+```
+
+Bug Fixed [Resolved]
+
+____
