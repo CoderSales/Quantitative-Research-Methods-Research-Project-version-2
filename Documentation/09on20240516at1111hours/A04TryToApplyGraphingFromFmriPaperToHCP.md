@@ -154,3 +154,7 @@ ____
 Docs for neurohcp: [files](https://rdrr.io/cran/neurohcp/f/)
 
 ____
+
+README for hcp: [hcp.Rmd](https://rdrr.io/cran/neurohcp/f/inst/doc/hcp.Rmd)
+
+____
