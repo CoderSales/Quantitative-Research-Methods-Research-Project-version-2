@@ -140,3 +140,7 @@ Error in hcp_list_files(prefix = prefix, delimiter = "/") :
 ```
 
 ____
+
+Docs | neurohcp [neurohcp: Human 'Connectome' Project Interface](https://rdrr.io/cran/neurohcp/)
+
+____
