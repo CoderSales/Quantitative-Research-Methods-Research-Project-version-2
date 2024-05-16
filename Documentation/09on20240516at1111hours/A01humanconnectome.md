@@ -68,4 +68,18 @@ Note: following:
 
 ____
 
+Note: added command:
+
+```r
+library(neurohcp)
+```
+
+____
+
+```r
+set_aws_api_key(access_key = "ACCESS_KEY", secret_key = "SECRET_KEY")
+```
+
+____
+
 
