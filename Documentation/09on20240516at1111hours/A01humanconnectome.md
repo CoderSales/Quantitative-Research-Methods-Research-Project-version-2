@@ -154,6 +154,37 @@ words <- words[nchar(words) < 20]
 words
 ```
 
+_# # # # # # # # # # # # # # # # # # # # 
+
+<u>Abstract to generalise and Refactor:</u>
+
+Note: here: Key:
+
+- variable = words
+
+- argument = dtm
+
+
+
+*Question Code*:
+
+```r
+variable <- argument %>%
+as.matrix %>%
+colnames %>%
+(function(x) x[nchar(x) < 20])
+```
+
+*Answer Code*:
+
+```r
+variable <- colnames(as.matrix(argument))
+variable <- variable[nchar(variable) < 20]
+variable
+```
+
+_# # # # # # # # # # # # # # # # # # # # 
+
 **Reference**: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
 
 ____
