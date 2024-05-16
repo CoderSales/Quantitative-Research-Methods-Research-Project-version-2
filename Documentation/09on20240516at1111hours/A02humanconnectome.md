@@ -64,7 +64,7 @@ package ‘neurohcp’ successfully unpacked and MD5 sums checked
 
 ____
 
-Note: following:
+Note: the current markdown document records the progress made while following along with the following document:
 
 [Getting Data from the Human Connectome Project (HCP)](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
 
