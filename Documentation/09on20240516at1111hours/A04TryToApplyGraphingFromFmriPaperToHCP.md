@@ -329,3 +329,12 @@ source("https://neuroconductor.org/neurocLite.R")
 neuro_install(c("fslr", "neurohcp"), release = "stable")
 ```
 ____
+
+```r
+source("https://neuroconductor.org/neurocLite.R")
+```
+
+```r
+neurocLite(c("fslr", "neurohcp"))
+```
+____
