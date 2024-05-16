@@ -31,3 +31,13 @@ bucketlist()
 ```
 
 ____
+
+Setup AWS
+
+____
+
+```r
+get_bucket(bucket = '1000genomes')
+```
+
+____
