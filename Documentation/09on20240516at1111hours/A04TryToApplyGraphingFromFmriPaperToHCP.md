@@ -225,3 +225,37 @@ ____
 Fix error
 
 ____
+
+```r
+r = download_hcp_dir("HCP/100307/T1w/Diffusion", verbose = FALSE)
+```
+
+```r
+print(basename(r$output_files))
+```
+
+
+```r
+r = list(output_files = c("bvals", "bvecs", "data.nii.gz", "grad_dev.nii.gz", "nodif_brain_mask.nii.gz")
+)
+```
+
+```r
+r$output_files
+```
+
+```r
+ids_with_dwi = ids_with_dwi %>% 
+  mutate(id_dir = paste0("HCP/", id, "/T1w/Diffusion"))
+```
+
+```r
+if (have_aws_key()) {
+  ret = download_hcp_file("HCP/100307/T1w/Diffusion/bvals", verbose = FALSE)
+}
+```
+
+End of webpage code.
+
+____
+
