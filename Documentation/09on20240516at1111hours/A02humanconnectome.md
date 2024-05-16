@@ -158,4 +158,9 @@ There is a wait here (minute(s)).
 print(basename(r$output_files))
 ```
 
+```r
+ids_with_dwi = ids_with_dwi %>% 
+  mutate(id_dir = paste0("HCP/", id, "/T1w/Diffusion"))
+```
+
 ____
