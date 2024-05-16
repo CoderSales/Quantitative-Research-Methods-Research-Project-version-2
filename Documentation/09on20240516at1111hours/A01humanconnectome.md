@@ -166,6 +166,11 @@ _# # # # # # # # # # # # # # # # # # # #
 </html>
 ```
 
+|Abstract to generalise and Refactor:|
+|------------------------------------|
+
+[Reference for underline using heading](https://www.ionos.com/digitalguide/websites/web-development/markdown/#:~:text=Text%20can't%20be%20underlined,usually%20inadvisable%20to%20do%20so.)
+
 Note: here: Key:
 
 - variable = words
@@ -202,6 +207,11 @@ _# # # # # # # # # # # # # # # # # # # #
     </body>
 </html>
 ```
+
+|Application of Stackoverflow abstracted Generalisation (generalised abstraction / (<kbd>Ctrl</kbd> + <kbd>F</kbd>)"Abstract to generalise") to Bug:|
+|---------------------------------------------|
+
+[Reference for underline using heading](https://www.ionos.com/digitalguide/websites/web-development/markdown/#:~:text=Text%20can't%20be%20underlined,usually%20inadvisable%20to%20do%20so.)
 
 
 
