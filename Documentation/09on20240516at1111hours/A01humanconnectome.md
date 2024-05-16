@@ -388,7 +388,8 @@ ____
 
 [Fix]:
 
-Part 1: (Previously done): install 2 packages:
+|Part 1: (Previously done): install 2 packages:|
+|------------------------------------------------------------------------|
 
 ```r
 install.packages("magrittr") # package installations are only needed the first time you use it
@@ -397,14 +398,15 @@ library(magrittr) # needs to be run every time you start R and want to use %>%
 library(dplyr)    # alternatively, this also loads %>%
 ```
 
-Part 2: Repaste original code correctly formatted:
+|Part 2: Repaste original code correctly formatted (remove <kbd>+</kbd>):|
+|------------------------------------------------------------------------|
+
 
 ```r
 ids_with_dwi = hcp_900_scanning_info %>% 
-    + filter(scan_type %in% "dMRI") %>%
-    + select(id) %>%
-    + unique
-Error: object 'scan_type' not found
+    filter(scan_type %in% "dMRI") %>%
+    select(id) %>%
+    unique
 ```
 
 Bug Fixed [Resolved]
