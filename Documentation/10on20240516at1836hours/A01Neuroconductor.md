@@ -89,3 +89,14 @@ ____
 [About Neuroconductor](https://neuroconductor.org/)
 
 [A01Neuroconductor.md](/Documentation/10on20240516at1836hours/A01Neuroconductor.md)
+
+____
+
+**Warning from Linux:**
+
+WARNING: Found ~/.bashrc but no ~/.bash_profile, ~/.bash_login or ~/.profile.
+
+This looks like an incorrect setup.
+A ~/.bash_profile that loads ~/.bashrc will be created for you.
+
+____
