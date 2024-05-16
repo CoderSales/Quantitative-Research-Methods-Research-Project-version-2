@@ -61,3 +61,31 @@ Open tabs (collected from Extension Referenced earlier):
 [devtools::install_github( "stnava/ITKR" ) - Google Search](https://www.google.com/search?q=devtools%3A%3Ainstall_github(+%22stnava%2FITKR%22+)&oq=devtools%3A%3Ainstall_github(+%22stnava%2FITKR%22+)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIzMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
 [r - devtools path length - Stack Overflow](https://stackoverflow.com/questions/50486347/devtools-path-length)
+
+____
+
+[VcXsrv Windows X Server](https://sourceforge.net/projects/vcxsrv/postdownload)
+
+[installer](https://git.fmrib.ox.ac.uk/fsl/conda/installer)
+
+[FslInstallationLinux](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Linux)
+
+[FSL Downloads](https://fsl.fmrib.ox.ac.uk/fsldownloads_registration/download/fsl=14,o_s=34,d_type=release/)
+
+[FslInstallationWindows](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Windows)
+
+[FSL Downloads](https://fsl.fmrib.ox.ac.uk/fsldownloads_registration)
+
+[FSL Downloads](https://fsl.fmrib.ox.ac.uk/fsldownloads_registration/download/fsl=14,o_s=31,d_type=release/)
+
+[FslInstallation](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation)
+
+____
+
+[Syllabus](https://www.coursera.org/learn/neurohacking/supplement/7RxMU/syllabus)
+
+[Courses](https://neuroconductor.org/courses)
+
+[About Neuroconductor](https://neuroconductor.org/)
+
+[A01Neuroconductor.md](/Documentation/10on20240516at1836hours/A01Neuroconductor.md)
