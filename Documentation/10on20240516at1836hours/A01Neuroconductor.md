@@ -92,7 +92,7 @@ ____
 
 ____
 
-**Warning from Linux:**
+**Warning from gitbas / MINGW64:**
 
 WARNING: Found ~/.bashrc but no ~/.bash_profile, ~/.bash_login or ~/.profile.
 
