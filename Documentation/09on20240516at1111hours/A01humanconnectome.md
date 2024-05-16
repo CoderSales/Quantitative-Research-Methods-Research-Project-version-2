@@ -156,16 +156,6 @@ words
 
 _# # # # # # # # # # # # # # # # # # # # 
 
-```html
-<html>
-    <head>
-    </head>
-    <body>
-<u>Abstract to generalise and Refactor:</u>
-    </body>
-</html>
-```
-
 |Abstract to generalise and Refactor:|
 |------------------------------------|
 
@@ -199,16 +189,6 @@ variable
 ```
 
 _# # # # # # # # # # # # # # # # # # # # 
-
-```html
-<html>
-    <head>
-    </head>
-    <body>
-<u>Application of Stackoverflow abstracted Generalisation (generalised abstraction / (<kbd>Ctrl</kbd> + <kbd>F</kbd>)"Abstract to generalise") to Bug:</u>
-    </body>
-</html>
-```
 
 |Application of Stackoverflow abstracted Generalisation (generalised abstraction / (<kbd>Ctrl</kbd> + <kbd>F</kbd>)"Abstract to generalise") to Bug:|
 |---------------------------------------------|
