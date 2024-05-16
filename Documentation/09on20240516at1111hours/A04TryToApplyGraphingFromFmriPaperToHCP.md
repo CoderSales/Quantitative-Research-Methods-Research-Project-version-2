@@ -112,4 +112,8 @@ Google Search: [neurohcp](https://www.google.com/search?q=neurohcp&oq=neurohcp&g
 
 [neurohcp: Human 'Connectome' Project Interface](https://cran.r-project.org/web/packages/neurohcp/index.html)
 
+package url convention Requested on docs:
+
+Please use the canonical form [https://CRAN.R-project.org/package=neurohcp](https://CRAN.R-project.org/package=neurohcp) to link to this page.
+
 ____
