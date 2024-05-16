@@ -29,3 +29,28 @@ Try to combine:
 ____
 
 
+## Next Step
+
+Try to combine:
+
+This Command:
+
+```r
+library(oro.nifti)
+temp <- file.path(tempdir(), "mni_colin27_1998_nifti.zip")
+colin.url <-
+"http://packages.bic.mni.mcgill.ca/mni-models/colin27/mni_colin27_1998_nifti.zip"
+```
+
+on page 8. of:
+
+`fmri` paper: [Coordinate-Based Meta-Analysis of fMRI | Studies with R | by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf)
+
+
+with:
+
+[AWS S3 Client Package](https://cran.r-project.org/web/packages/aws.s3/readme/README.html)
+
+and / or:
+
+HCP webpage: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
