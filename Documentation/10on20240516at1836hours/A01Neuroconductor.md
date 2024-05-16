@@ -92,11 +92,17 @@ ____
 
 ____
 
-**Warning from gitbas / MINGW64:**
+**Warning from git bash / MINGW64:**
 
 WARNING: Found ~/.bashrc but no ~/.bash_profile, ~/.bash_login or ~/.profile.
 
 This looks like an incorrect setup.
 A ~/.bash_profile that loads ~/.bashrc will be created for you.
+
+____
+
+**Note from git bash / MINGW64:**
+
+grep: /etc/resolv.conf: No such file or directory
 
 ____
