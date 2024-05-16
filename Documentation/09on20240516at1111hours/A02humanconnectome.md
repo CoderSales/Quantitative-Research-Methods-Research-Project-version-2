@@ -163,4 +163,10 @@ ids_with_dwi = ids_with_dwi %>%
   mutate(id_dir = paste0("HCP/", id, "/T1w/Diffusion"))
 ```
 
+```r
+if (have_aws_key()) {
+  ret = download_hcp_file("HCP/100307/T1w/Diffusion/bvals", verbose = FALSE)
+}
+```
+
 ____
