@@ -210,6 +210,14 @@ result: stackoverflow [Trouble downloading S3 bucket objects through boto3. Erro
 
 ____
 
+Document earlier search:
+
+Google Search: [download_hcp_dir](https://www.google.com/search?q=download_hcp_dir&oq=download_hcp_dir&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBBzU4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+[download_hcp_dir: Download an entire directory from HCP](https://www.rdocumentation.org/packages/neurohcp/versions/0.9.0/topics/download_hcp_dir)
+
+____
+
 aws keys
 
 ____
