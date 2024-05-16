@@ -310,3 +310,5 @@ library(dplyr)    # alternatively, this also loads %>%
 ```
 
 Reference: stackoverflow: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
+
+____
