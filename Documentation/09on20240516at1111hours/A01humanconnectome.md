@@ -156,7 +156,9 @@ words
 
 _# # # # # # # # # # # # # # # # # # # # 
 
+```html
 <u>Abstract to generalise and Refactor:</u>
+```
 
 Note: here: Key:
 
@@ -182,6 +184,14 @@ variable <- colnames(as.matrix(argument))
 variable <- variable[nchar(variable) < 20]
 variable
 ```
+
+_# # # # # # # # # # # # # # # # # # # # 
+
+```html
+<u>Application of Stackoverflow abstracted Generalisation (generalised abstraction / (<kbd>Ctrl</kbd> + <kbd>F</kbd>)"Abstract to generalise") to Bug:</u>
+```
+
+
 
 _# # # # # # # # # # # # # # # # # # # # 
 
