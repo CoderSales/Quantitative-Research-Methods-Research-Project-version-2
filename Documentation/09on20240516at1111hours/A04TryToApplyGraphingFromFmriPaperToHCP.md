@@ -338,3 +338,9 @@ source("https://neuroconductor.org/neurocLite.R")
 neurocLite(c("fslr", "neurohcp"))
 ```
 ____
+
+```r
+devtools::session_info()
+```
+
+____
