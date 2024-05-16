@@ -107,3 +107,9 @@ Warning: package ‘neurohcp’ is in use and will not be installed
 ```
 
 ____
+
+Google Search: [neurohcp](https://www.google.com/search?q=neurohcp&oq=neurohcp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+[neurohcp: Human 'Connectome' Project Interface](https://cran.r-project.org/web/packages/neurohcp/index.html)
+
+____
