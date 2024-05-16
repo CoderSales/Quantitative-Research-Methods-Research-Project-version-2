@@ -202,3 +202,10 @@ Error in hcp_list_files(prefix = prefix, delimiter = delimiter, ...) :
 ```
 
 ____
+
+
+Google Search: [Error in hcp_list_files(prefix = prefix, delimiter = delimiter, ...) : Forbidden (HTTP 403).](https://www.google.com/search?q=Error+in+hcp_list_files(prefix+%3D+prefix%2C+delimiter+%3D+delimiter%2C+...)+%3A+Forbidden+(HTTP+403).&oq=Error+in+hcp_list_files(prefix+%3D+prefix%2C+delimiter+%3D+delimiter%2C+...)+%3A+Forbidden+(HTTP+403).&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzk3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+result: stackoverflow [Trouble downloading S3 bucket objects through boto3. Error 403 HeadObject: Forbidden](https://stackoverflow.com/questions/59615713/trouble-downloading-s3-bucket-objects-through-boto3-error-403-headobject-forbi)
+
+____
