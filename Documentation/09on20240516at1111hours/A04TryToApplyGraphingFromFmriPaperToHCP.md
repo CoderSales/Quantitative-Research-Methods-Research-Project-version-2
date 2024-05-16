@@ -234,7 +234,6 @@ r = download_hcp_dir("HCP/100307/T1w/Diffusion", verbose = FALSE)
 print(basename(r$output_files))
 ```
 
-
 ```r
 r = list(output_files = c("bvals", "bvecs", "data.nii.gz", "grad_dev.nii.gz", "nodif_brain_mask.nii.gz")
 )
