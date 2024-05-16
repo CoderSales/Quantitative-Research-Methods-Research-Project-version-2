@@ -150,3 +150,7 @@ ____
 [API for neurohcp](https://rdrr.io/cran/neurohcp/api/)
 
 ____
+
+Docs for neurohcp: [files](https://rdrr.io/cran/neurohcp/f/)
+
+____
