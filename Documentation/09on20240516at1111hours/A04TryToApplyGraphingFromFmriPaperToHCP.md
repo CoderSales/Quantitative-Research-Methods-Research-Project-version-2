@@ -258,3 +258,6 @@ End of webpage code.
 
 ____
 
+Another package:
+
+[Installing Neuroconductor Packages](https://neuroconductor.org/tutorials/install)
