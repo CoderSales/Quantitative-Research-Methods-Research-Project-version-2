@@ -197,6 +197,45 @@ Google Search: [underline in markdown](https://www.google.com/search?q=underline
 
 [Reference for underline using heading](https://www.ionos.com/digitalguide/websites/web-development/markdown/#:~:text=Text%20can't%20be%20underlined,usually%20inadvisable%20to%20do%20so.)
 
+*Question Code*:
+
+```r
+variable <- argument %>%
+as.matrix %>%
+colnames %>%
+(function(x) x[nchar(x) < 20])
+```
+
+*Answer Code*:
+
+```r
+variable <- colnames(as.matrix(argument))
+variable <- variable[nchar(variable) < 20]
+variable
+```
+
+*Code with Bug*:
+
+```r
+ids_with_dwi = hcp_900_scanning_info %>% 
++ filter(scan_type %in% "dMRI") %>%
++ select(id) %>%
++ unique
+```
+
+*Trying to translate Code with Bug to Code with Fix*:
+
+Note: here: Key:
+
+variable = ids_with_dwi
+
+argument = hcp_900_scanning_info
+
+```r
+ids_with_dwi <- filter(scan_type %in% "dMRI") %>%
+ids_with_dwi <- ids_with_dwi[id] 
+ids_with_dwi
+```
 
 
 _# # # # # # # # # # # # # # # # # # # # 
@@ -204,4 +243,42 @@ _# # # # # # # # # # # # # # # # # # # #
 **Reference**: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
 
 ____
+
+Debug continued:
+
+Tried:
+
+```r
+ids_with_dwi <- filter(scan_type %in% "dMRI") %>%
+ids_with_dwi <- ids_with_dwi[id] 
+ids_with_dwi
+```
+
+Error:
+
+Error: object 'ids_with_dwi' not found
+
+Google Search: [r programming Error: object '' not found](https://www.google.com/search?q=r+programming+Error%3A+object+%27%27+not+found&oq=r+programming+Error%3A+object+%27%27+not+found&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQkxNDkxMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+Result:
+
+If you forget to define an object or assign a value to it, R will not be able to find it and throw the 'Object Not Found' error. Always make sure to define and assign values to your objects before using them in your code. Incorrect Data Types: Attempting operations that are only applicable to specific data types.
+
+Source:
+
+[Fix It Insider](https://fixitinsider.com/how-to-fix-object-not-found-error-in-r/#:~:text=If%20you%20forget%20to%20define,applicable%20to%20specific%20data%20types.)
+
+Attempted Application to Bug:
+
+Convert <- to =
+
+Reason:
+
+to create variable
+
+Assume:
+
+<- operator only works
+
+after = operator used previously to assign / declare / instantiate variable
 
