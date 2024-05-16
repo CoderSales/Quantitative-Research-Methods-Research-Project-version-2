@@ -56,3 +56,23 @@ and / or:
 HCP webpage: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
 
 ____
+
+from:
+
+page 8 of
+
+`fmri` paper: [Coordinate-Based Meta-Analysis of fMRI | Studies with R | by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf)
+
+need to have MNI space coordinates
+
+per oro.nifti R package;
+
+and I want to apply this to / use analysis methods from / work on data from:
+
+[AWS S3 Client Package](https://cran.r-project.org/web/packages/aws.s3/readme/README.html)
+
+or
+
+HCP webpage: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
+
+____
