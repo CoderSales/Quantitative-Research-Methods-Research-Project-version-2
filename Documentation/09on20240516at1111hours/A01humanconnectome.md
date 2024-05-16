@@ -83,3 +83,10 @@ set_aws_api_key(access_key = "ACCESS_KEY", secret_key = "SECRET_KEY")
 ____
 
 
+```r
+if (have_aws_key()) {
+  neurohcp::bucketlist()
+}
+```
+
+
