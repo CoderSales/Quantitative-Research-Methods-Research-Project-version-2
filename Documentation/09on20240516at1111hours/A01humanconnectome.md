@@ -89,4 +89,23 @@ if (have_aws_key()) {
 }
 ```
 
+____
 
+Command:
+
+```r
+ids_with_dwi = hcp_900_scanning_info %>% 
++ filter(scan_type %in% "dMRI") %>%
++ select(id) %>%
++ unique
+```
+
+Error:
+
+```r
+  could not find function "%>%"
+```
+
+Google Search: [could not find function "%>%"](https://www.google.com/search?q=could+not+find+function+%22%25%3E%25%22&oq=could+not+find+function+%22%25%3E%25%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzg5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+Result: stackoverflow: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
