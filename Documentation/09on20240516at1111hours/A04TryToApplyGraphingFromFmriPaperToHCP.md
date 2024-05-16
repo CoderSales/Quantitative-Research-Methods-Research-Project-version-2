@@ -121,3 +121,7 @@ links to:
 HCP webpage: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
 
 ____
+
+[Package ‘neurohcp’](https://cran.r-project.org/web/packages/neurohcp/neurohcp.pdf)
+____
+
