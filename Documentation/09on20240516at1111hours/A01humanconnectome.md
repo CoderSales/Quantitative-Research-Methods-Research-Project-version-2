@@ -91,7 +91,7 @@ if (have_aws_key()) {
 
 ____
 
-Command:
+### Command:
 
 ```r
 ids_with_dwi = hcp_900_scanning_info %>% 
@@ -100,12 +100,61 @@ ids_with_dwi = hcp_900_scanning_info %>%
 + unique
 ```
 
-Error:
+#### Error:
 
 ```r
   could not find function "%>%"
 ```
 
-Google Search: [could not find function "%>%"](https://www.google.com/search?q=could+not+find+function+%22%25%3E%25%22&oq=could+not+find+function+%22%25%3E%25%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzg5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+##### Google Search: [could not find function "%>%"](https://www.google.com/search?q=could+not+find+function+%22%25%3E%25%22&oq=could+not+find+function+%22%25%3E%25%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzg5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 
-Result: stackoverflow: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
+____
+
+###### Result: stackoverflow: 
+
+**Content**:
+
+The pipe operator %>% was introduced to "decrease development time and to improve readability and maintainability of code."
+
+But everybody has to decide for himself if it really fits his workflow and makes things easier. For more information on magrittr, click [here](http://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html).
+
+Not using the pipe %>%, this code would return the same as your code:
+
+```r
+words <- colnames(as.matrix(dtm))
+words <- words[nchar(words) < 20]
+words
+```
+
+**Comparative Context (Code from Question)**:
+
+```r
+words <- dtm %>%
+as.matrix %>%
+colnames %>%
+(function(x) x[nchar(x) < 20])
+```
+
+**Comparing Code from Content(Answer) with Code from Context(Question)**:
+
+*Question Code*:
+
+```r
+words <- dtm %>%
+as.matrix %>%
+colnames %>%
+(function(x) x[nchar(x) < 20])
+```
+
+*Answer Code*:
+
+```r
+words <- colnames(as.matrix(dtm))
+words <- words[nchar(words) < 20]
+words
+```
+
+**Reference**: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
+
+____
+
