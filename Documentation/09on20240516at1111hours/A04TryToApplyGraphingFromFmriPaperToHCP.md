@@ -311,3 +311,12 @@ neuro_install(c("fslr", "neurohcp"))
 ```
 
 ____
+
+```r
+source("https://neuroconductor.org/neurocLite.R")
+```
+
+```r
+neuro_install("neurocInstall")
+```
+____
