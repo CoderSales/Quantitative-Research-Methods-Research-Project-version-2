@@ -301,3 +301,13 @@ source("https://neuroconductor.org/neurocLite.R")
 ```
 
 ____
+
+```r
+source("https://neuroconductor.org/neurocLite.R")
+```
+
+```r
+neuro_install(c("fslr", "neurohcp"))
+```
+
+____
