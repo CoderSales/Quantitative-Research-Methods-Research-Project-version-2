@@ -144,4 +144,8 @@ Continuing with: [Getting Data from the Human Connectome Project (HCP)](https://
 head(ids_with_dwi)
 ```
 
+```r
+r = download_hcp_dir("HCP/100307/T1w/Diffusion", verbose = FALSE)
+```
+
 ____
