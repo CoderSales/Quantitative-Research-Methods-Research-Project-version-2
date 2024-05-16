@@ -157,4 +157,48 @@ ____
 
 README for hcp: [hcp.Rmd](https://rdrr.io/cran/neurohcp/f/inst/doc/hcp.Rmd)
 
+Code from README previously stated on line above:
+
+```r
+library(neurohcp)
+library(dplyr)
+knitr::opts_chunk$set(echo = TRUE, cache = FALSE, comment = "")
+
+source("http://neuroconductor.org/neurocLite.R")
+
+neuro_install("neurohcp", release = "stable")
+
+```
+
+Set key.
+
+```r
+if (have_aws_key()) {
+  neurohcp::bucketlist()
+}
+
+if (have_aws_key()) {
+  neurohcp::bucketlist(verbose = FALSE)
+}
+
+ids_with_dwi = hcp_900_scanning_info %>% 
+  filter(scan_type %in% "dMRI") %>% 
+  select(id) %>% 
+  unique
+
+
+head(ids_with_dwi)
+```
+
+```r
+r = download_hcp_dir("HCP/100307/T1w/Diffusion", verbose = FALSE)
+```
+
+Error:
+
+```r
+Error in hcp_list_files(prefix = prefix, delimiter = delimiter, ...) : 
+  Forbidden (HTTP 403).
+```
+
 ____
