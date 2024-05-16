@@ -312,3 +312,57 @@ library(dplyr)    # alternatively, this also loads %>%
 Reference: stackoverflow: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
 
 ____
+
+Result of Applying last debug step:
+
+Pasting this code (repeated copy paste code block from earlier):
+
+```r
+install.packages("magrittr") # package installations are only needed the first time you use it
+install.packages("dplyr")    # alternative installation of the %>%
+library(magrittr) # needs to be run every time you start R and want to use %>%
+library(dplyr)    # alternatively, this also loads %>%
+```
+
+Gives the following combination of code input and output:
+
+```r
+> install.packages("magrittr") # package installations are only needed the first time you use it
+Installing package 
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/magrittr_2.0.3.zip'
+Content type 'application/zip' length 226915 bytes (221 KB)
+downloaded 221 KB
+
+package ‘magrittr’ successfully unpacked and MD5 sums checked
+
+downloaded binary packages 
+	
+> install.packages("dplyr")    # alternative installation of the %>%
+Installing package 
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/dplyr_1.1.4.zip'
+Content type 'application/zip' length 1559182 bytes (1.5 MB)
+downloaded 1.5 MB
+
+package ‘dplyr’ successfully unpacked and MD5 sums checked
+
+ downloaded binary packages
+
+> library(magrittr) # needs to be run every time you start R and want to use %>%
+> library(dplyr)    # alternatively, this also loads %>%
+
+Attaching package: ‘dplyr’
+
+The following object is masked from ‘package:oro.nifti’:
+
+    slice
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, unio
+```
