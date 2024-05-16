@@ -123,5 +123,5 @@ HCP webpage: [Getting Data from the Human Connectome Project (HCP) | John Musche
 ____
 
 [Package ‘neurohcp’](https://cran.r-project.org/web/packages/neurohcp/neurohcp.pdf)
-____
 
+____
