@@ -169,6 +169,8 @@ _# # # # # # # # # # # # # # # # # # # #
 |Abstract to generalise and Refactor:|
 |------------------------------------|
 
+Google Search: [underline in markdown](https://www.google.com/search?q=underline+in+markdown&oq=underline+in+markdown&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMgoIBhAAGA8YFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIMzc4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
 [Reference for underline using heading](https://www.ionos.com/digitalguide/websites/web-development/markdown/#:~:text=Text%20can't%20be%20underlined,usually%20inadvisable%20to%20do%20so.)
 
 Note: here: Key:
@@ -210,6 +212,8 @@ _# # # # # # # # # # # # # # # # # # # #
 
 |Application of Stackoverflow abstracted Generalisation (generalised abstraction / (<kbd>Ctrl</kbd> + <kbd>F</kbd>)"Abstract to generalise") to Bug:|
 |---------------------------------------------|
+
+Google Search: [underline in markdown](https://www.google.com/search?q=underline+in+markdown&oq=underline+in+markdown&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMgoIBhAAGA8YFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIMzc4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 
 [Reference for underline using heading](https://www.ionos.com/digitalguide/websites/web-development/markdown/#:~:text=Text%20can't%20be%20underlined,usually%20inadvisable%20to%20do%20so.)
 
