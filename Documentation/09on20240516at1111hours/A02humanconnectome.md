@@ -144,8 +144,14 @@ Continuing with: [Getting Data from the Human Connectome Project (HCP)](https://
 head(ids_with_dwi)
 ```
 
+Let us download the complete directory of diffusion data using download_hcp_dir:
+
 ```r
 r = download_hcp_dir("HCP/100307/T1w/Diffusion", verbose = FALSE)
 ```
+
+From above: "complete directory"
+
+There is a wait here (minute(s)).
 
 ____
