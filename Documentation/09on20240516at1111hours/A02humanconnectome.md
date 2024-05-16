@@ -137,3 +137,7 @@ ids_with_dwi = hcp_900_scanning_info %>%
 Bug Fixed [Resolved]
 
 ____
+
+Continuing with: [Getting Data from the Human Connectome Project (HCP)](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
+
+____
