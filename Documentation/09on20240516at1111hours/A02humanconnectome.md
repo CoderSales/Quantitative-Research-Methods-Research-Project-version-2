@@ -110,7 +110,7 @@ ____
 
 [Fix]:
 
-|Part 1: (Previously done): install 2 packages:|
+|Part 1: install 2 packages:|
 |------------------------------------------------------------------------|
 
 ```r
@@ -129,6 +129,10 @@ ids_with_dwi = hcp_900_scanning_info %>%
     select(id) %>%
     unique
 ```
+
+##### Google Search: [could not find function "%>%"](https://www.google.com/search?q=could+not+find+function+%22%25%3E%25%22&oq=could+not+find+function+%22%25%3E%25%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzg5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+**Reference**: [Error: could not find function "%>%"](https://stackoverflow.com/questions/30248583/error-could-not-find-function)
 
 Bug Fixed [Resolved]
 
