@@ -282,3 +282,17 @@ Assume:
 
 after = operator used previously to assign / declare / instantiate variable
 
+_____
+
+Code and Error:
+
+```r
+> ids_with_dwi = filter(scan_type %in% "dMRI") %>%
++     ids_with_dwi <- ids_with_dwi[id] 
+Error: object 'ids_with_dwi' not found
+```
+
+Note: code still contains one instance of %>% operator
+
+____
+
