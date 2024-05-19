@@ -91,3 +91,36 @@ To that end, it has long been possible for consumers to use hardware and softwar
 
 I wonder if some of the sound processing techniques from the music recording industry could be used somehow to find application in processing brain waves in EEG analysis.
 
+____
+
+### Google Chrome Extension
+
+Another Project I worked on to support this one was a Google Extension to allow referencing in a way that would create a title with a link that could be pasted into a markdown file like this one and would automatically be formatted as a working link.  The Extension is based on one of the introductory tutorials on making Google Extensions for Google Chrome, called tab-manager.  During this Research Project I wrote (or at least modified) my first Google Chrome Extension.
+
+Here is the repository: [javascript-chrome-extension-2](https://github.com/CoderSales/javascript-chrome-extension-2).
+
+I am hosting it locally using the "load unpacked" button on the https://extensions page in the Google Chrome Browser.  
+
+The extension collects the web addresses of open pages (from a given Google Account, once the domain has been specified in the popup.js file), and assembles them in the Console.
+
+The Console can be accessed by pinning the extension to the browser, clicking refresh from the https://extensions page,
+
+clicking the (purple square) Extension in the top right of the Chrome Browser,
+
+right clicking on the dropdown from the extension
+
+Selecting Inspect
+
+and then Clicking Console in the top of the Windows which opens,
+
+and scrolling down to (on the right hand side of the page popup.js:82
+
+copying all the formatted references 
+
+and pasting into a markdown document.
+
+These are the open tabs separated per window by horizontal rules.
+
+____
+
+
