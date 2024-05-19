@@ -293,9 +293,11 @@ The above abstract mentions that: "Event-related potentials (ERPs) and magnetic 
 
 [Random Forests | Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/)
 
-#### cran.r-project
+#### cran.r-project | Documentation
 
 [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
+
+[Getting Data from the Human Connectome Project (HCP)](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html)
 
 #### AWS
 
