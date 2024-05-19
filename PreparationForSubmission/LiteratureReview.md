@@ -242,7 +242,15 @@ However, it is also interesting to see that the R Docummentation clearly identif
 
 Here is the R Reference Manual for the Random Forest package [Package ‘randomForest’](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf).
 
+____
 
+## Search
+
+## Machine Learning fmri images
+
+Google Scholar Search String: [Machine Learning fmri images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Machine+Learning+fmri+images&btnG=)
+
+Result: [Fan, Y., Shen, D., and Davatzikos, C. (2006) Detecting Cognitive States from fMRI Images by Machine Learning and Multivariate Classification, Conferences >2006 Conference on Computer V... available: https://ieeexplore.ieee.org/abstract/document/1640530?casa_token=Cjz0bJxV6CYAAAAA:NybNn_T-fvHKkzm2oI1330BQgT2FN9m28OIIK8QI4o1r1EZLtnqaHbN9OUPSvR6KLcIyGPVT [accessed: 20-05-2024].](https://ieeexplore.ieee.org/abstract/document/1640530?casa_token=Cjz0bJxV6CYAAAAA:NybNn_T-fvHKkzm2oI1330BQgT2FN9m28OIIK8QI4o1r1EZLtnqaHbN9OUPSvR6KLcIyGPVT)
 
 
 
