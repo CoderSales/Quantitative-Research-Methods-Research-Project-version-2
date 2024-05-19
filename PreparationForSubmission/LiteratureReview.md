@@ -272,4 +272,4 @@ Result: [Groppe, D., M., Urbach, T., P. and Kutas, M. (2011) Mass univariate ana
 
 The above abstract mentions that: "Event-related potentials (ERPs) and magnetic fields (ERFs) are typically analyzed via ANOVAs on mean activity in a priori windows."  It mentions that: "Mass univariate analyses complement and, at times, obviate traditional analyses."  It reviews "this approach as applied to ERP/ERF data".
 
-
+"In this article, we consider in depth one type of approach, *mass univariate analyses*".
