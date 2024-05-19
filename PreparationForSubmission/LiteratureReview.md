@@ -273,3 +273,23 @@ Result: [Groppe, D., M., Urbach, T., P. and Kutas, M. (2011) Mass univariate ana
 The above abstract mentions that: "Event-related potentials (ERPs) and magnetic fields (ERFs) are typically analyzed via ANOVAs on mean activity in a priori windows."  It mentions that: "Mass univariate analyses complement and, at times, obviate traditional analyses."  It reviews "this approach as applied to ERP/ERF data".
 
 "In this article, we consider in depth one type of approach, *mass univariate analyses*", "in which a large number of univariate tests, e.g., t-tests, can be properly used to compare ERPs/ERFs at an exhaustive number of time points and scalp locations."
+
+## References
+
+
+### Conferences
+
+[Fan, Y., Shen, D., and Davatzikos, C. (2006) Detecting Cognitive States from fMRI Images by Machine Learning and Multivariate Classification, Conferences >2006 Conference on Computer V... available: https://ieeexplore.ieee.org/abstract/document/1640530?casa_token=Cjz0bJxV6CYAAAAA:NybNn_T-fvHKkzm2oI1330BQgT2FN9m28OIIK8QI4o1r1EZLtnqaHbN9OUPSvR6KLcIyGPVT [accessed: 20-05-2024].](https://ieeexplore.ieee.org/abstract/document/1640530?casa_token=Cjz0bJxV6CYAAAAA:NybNn_T-fvHKkzm2oI1330BQgT2FN9m28OIIK8QI4o1r1EZLtnqaHbN9OUPSvR6KLcIyGPVT)
+
+### Journals
+
+[Groppe, D., M., Urbach, T., P. and Kutas, M. (2011) Mass univariate analysis of event-related brain potentials/fields I: A critical tutorial review, Psychophysiology. 2011 Dec; 48(12): pp. 1711–1725.(edited form), 2011 Sep 6. (online), avaialble: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/ / doi: 10.1111/j.1469-8986.2011.01273.x [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/)
+
+### Webpages
+
+[Random Forests | Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/)
+
+#### cran.r-project
+
+[randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
+
