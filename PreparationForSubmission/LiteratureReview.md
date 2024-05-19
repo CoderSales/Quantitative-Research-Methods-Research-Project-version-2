@@ -125,7 +125,7 @@ ____
 
 ### Note on Andrea Stocco Paper
 
-I was able to run the code and reproduce the images from [Coordinate-Based Meta-Analysis of fMRI
-Studies with R | by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) except for the last line on page 13, before the Summary whereby running the display legend command gave an error instead of the legend.
+I was able to run the code and reproduce the images from [Stocco, A. (2004) Coordinate-Based Meta-Analysis of fMRI
+Studies with R, The R Journal Vol. 6/2, December 2014, available: https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf.](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) except for the last line on page 13, before the Summary whereby running the display legend command gave an error instead of the legend.
 
 ____
