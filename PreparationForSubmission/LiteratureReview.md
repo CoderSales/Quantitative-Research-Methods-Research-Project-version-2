@@ -166,6 +166,10 @@ Having access to large scale processing is one potential approach to address the
 
 ## Note on Theory of Machine Learning
 
+### Linking this Project to Machine Learning
+
+Although development herein was only entry level and exploratory, 
+
 ### Machine Learning | Python | Scikit learn
 
 Scikit learn is a python based package for doing machine learning.  
@@ -184,7 +188,7 @@ Although that is an example of a python package, an analogous R package would be
 
 [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html) which is "based on Breiman (2001)".
 
-##### R/ python Random Forest comparison | origins
+##### R / python Random Forest comparison | origins
 
 I feel the python version has nice documentation, in that it describes the model succinctly.
 
