@@ -136,7 +136,7 @@ ____
 
 I ran this basic installation and setup page for Getting Started with neurohcp: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html).
 
-- Note: this site features the neurohcp package and uses neuroconductor.org as the source domain.
+- Note: This site features the neurohcp package and uses neuroconductor.org as the source domain.
 
 #### Coursera
 
