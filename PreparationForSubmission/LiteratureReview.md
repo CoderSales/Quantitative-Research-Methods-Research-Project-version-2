@@ -260,5 +260,6 @@ Google Search String: [mass-univariate analysis techniques](https://www.google.c
 
 Result: [Groppe, D., M., Urbach, T., P. and Kutas, M. (2011) Mass univariate analysis of event-related brain potentials/fields I: A critical tutorial review, Psychophysiology. 2011 Dec; 48(12): pp. 1711–1725.(edited form), 2011 Sep 6. (online), avaialble: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/ / doi: 10.1111/j.1469-8986.2011.01273.x [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/)
 
+The above abstract mentions that: "Event-related potentials (ERPs) and magnetic fields (ERFs) are typically analyzed via ANOVAs on mean activity in a priori windows."  It mentions that: "Mass univariate analyses complement and, at times, obviate traditional analyses."  It reviews "this approach as applied to ERP/ERF data".
 
 
