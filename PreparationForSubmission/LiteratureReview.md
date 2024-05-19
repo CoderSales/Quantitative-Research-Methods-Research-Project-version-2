@@ -297,6 +297,8 @@ The above abstract mentions that: "Event-related potentials (ERPs) and magnetic 
 
 [AWS S3 Client Package](https://cran.r-project.org/web/packages/aws.s3/readme/README.html)
 
+[Amazon EC2](https://aws.amazon.com/ec2/)
+
 #### GitHub
 
 ##### This Project
