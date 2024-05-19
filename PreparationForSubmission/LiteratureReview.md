@@ -146,11 +146,17 @@ I ran this basic installation and setup page for Getting Started with neurohcp: 
 
 ____
 
+## AWS
+
 ### AWS S3 Client Package
 
 [AWS S3 Client Package](https://cran.r-project.org/web/packages/aws.s3/readme/README.html)
 
 From the above site: "aws.s3 is a simple client package for the Amazon Web Services (AWS) Simple Storage Service (S3) REST API."
+
+### EC2
+
+[Amazon EC2](https://aws.amazon.com/ec2/)
 
 
 
