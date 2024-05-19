@@ -52,7 +52,7 @@
 
 ERP = event-related brain potential
 
-ERF = magnetic field
+ERF = event-related magnetic field
 
 ## Background
 
