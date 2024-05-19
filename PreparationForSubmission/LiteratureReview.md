@@ -74,3 +74,20 @@ The next step may be to use the neuroconductor package.  I signed up for a Cours
 ### Application
 
 From discussion with Dr Sweeney, there may be a subgroup of Statistics Researchers who do not use R but could benefit.  An Application of this Research could address this, potentially.  The RShiny Web-based Graphical User Interface could provide a positive user experience for those not currently using R, who are doing Quantitative Analysis.
+
+### Frequency Processing Idea
+
+One of the difficulties inherent in dealing with sound and waves is the relatively high frequencies involved.
+
+Also, it is often necessary to use Fast Fourier Transforms to convert time domain to frequency domain for processing including displaying the spectrum of frequences on an Equaliser, which must be calculated as sound is passed through the system.
+
+#### A comparison of Video and Audio Processing Requirements
+
+For comparison, 200 Hz is considered a very high refresh rate for a television, while, in sound 48 kHz is considered low to standard.
+
+Therefore any compute done on audio has this complexity built in.
+
+To that end, it has long been possible for consumers to use hardware and software capable of dealing with the rapid calculations involved in audio processing.
+
+I wonder if some of the sound processing techniques from the music recording industry could be used somehow to find application in processing brain waves in EEG analysis.
+
