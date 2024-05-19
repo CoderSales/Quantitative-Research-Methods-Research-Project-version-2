@@ -38,8 +38,6 @@
 
 [Linking this Project to Machine Learning](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#linking-this-project-to-machine-learning)
 
-[Linking this Project to Machine Learning](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#linking-this-project-to-machine-learning)
-
 [Machine Learning | Python | Scikit learn](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#machine-learning--python--scikit-learn)
 
 [Random Forest Classifier](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#random-forest-classifier)
