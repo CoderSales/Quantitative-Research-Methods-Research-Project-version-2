@@ -75,6 +75,8 @@ The next step may be to use the neuroconductor package.  I signed up for a Cours
 
 From discussion with Dr Sweeney, there may be a subgroup of Statistics Researchers who do not use R but could benefit.  An Application of this Research could address this, potentially.  The RShiny Web-based Graphical User Interface could provide a positive user experience for those not currently using R, who are doing Quantitative Analysis.
 
+I feel this is analogous to the argument made by [Breiman, L. (2001) Statistical Modeling: The Two Cultures, Statistical Science, 2001, Vol. 16, No. 3, 199–231, available: https://www-jstor-org.glucksman.idm.oclc.org/stable/2676681?sid=primo [accessed: 19-May-2024].](https://www-jstor-org.glucksman.idm.oclc.org/stable/2676681?sid=primo), that "there are two cultures in the use of statistical modeling to reach conclusions from data", in that, there are different schools of thought on how to approach research generally, and different fields have different strengths.
+
 ### Frequency Processing Idea
 
 One of the difficulties inherent in dealing with sound and waves is the relatively high frequencies involved.
