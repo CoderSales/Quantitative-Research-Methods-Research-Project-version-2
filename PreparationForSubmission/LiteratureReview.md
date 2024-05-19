@@ -131,3 +131,16 @@ I was able to run the code and reproduce the images from [Stocco, A. (2004) Coor
 Studies with R, The R Journal Vol. 6/2, December 2014, available: https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf.](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) except for the last line on page 13, before the Summary whereby running the display legend command gave an error instead of the legend.
 
 ____
+
+### Notes on John Muschelli Literature
+
+I ran this basic installation and setup page for Getting Started with neurohcp: [Getting Data from the Human Connectome Project (HCP) | John Muschelli | 2020-10-14](https://cran.r-project.org/web/packages/neurohcp/vignettes/hcp.html).
+
+- Note: this site features the neurohcp package and uses neuroconductor.org as the source domain.
+
+#### Coursera
+
+[Introduction to Neurohacking In R](https://www.coursera.org/learn/neurohacking)
+
+- John Muschelli features on the Coursera course.
+
