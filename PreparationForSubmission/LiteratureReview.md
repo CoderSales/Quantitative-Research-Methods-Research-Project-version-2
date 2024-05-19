@@ -164,6 +164,22 @@ From the Amazon EC2 website: "Amazon Elastic Compute Cloud (Amazon EC2) offers t
 
 Having access to large scale processing is one potential approach to address the issue of how to deal with the complexity of fmri images.
 
+## Note on Theory of Machine Learning
+
+Scikit learn is a python based package for doing machine learning.  Here is the documentation page for the Random Forest Classifier: [sklearn.ensemble.RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html).
+
+Random Forest Classifiers are sets of Decision Trees, where Hyper parameter tuning is applied to do high level manipulation of the way the model makes decisions based on the many parameters in the dataset.
+
+One issue here would be that :
+
+Although that is an example of a python package, an analogous package would be:
+
+[randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html) which is "based on Breiman (2001)".
+
+I feel the python version has nice documentation, in that it describes the model succinctly.
+
+However, it is also interesting to see that the R Docummentation clearly identifies that Breiman was involved in origins of the idea, originally in Fortran, and makes reference to the site: [Random Forests | Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/) which identifies that Random Forests are a trademark (TM) of Leo Breiman and Adele Cutler.
+
 
 
 
