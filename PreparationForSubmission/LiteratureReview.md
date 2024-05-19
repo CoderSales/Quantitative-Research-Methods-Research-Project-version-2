@@ -1,5 +1,53 @@
 # Literature Review
 
+## Table of Contents
+
+[Background](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#background)
+
+[RShiny](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#rshiny)
+
+[Progress (Continued)](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#progress-continued)
+
+[Development of Ideas](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#development-of-ideas)
+
+[Potential for Future Work](Development of Ideas)
+
+[Application](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#application)
+
+[Frequency Processing Idea](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#frequency-processing-idea)
+
+[A comparison of Video and Audio Processing Requirements](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#a-comparison-of-video-and-audio-processing-requirements)
+
+[Google Chrome Extension](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#google-chrome-extension)
+
+[Note on Running Extension if Hosting Locally](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#note-on-running-extension-if-hosting-locally)
+
+[Note on Andrea Stocco Paper](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#note-on-andrea-stocco-paper)
+
+[Notes on John Muschelli Literature](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#notes-on-john-muschelli-literature)
+
+[Coursera](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#coursera)
+
+[AWS](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#aws)
+
+[AWS S3 Client Package](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#aws-s3-client-package)
+
+[EC2](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#ec2)
+
+[Note on Theory of Machine Learning](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#note-on-theory-of-machine-learning)
+
+[Linking this Project to Machine Learning](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#linking-this-project-to-machine-learning)
+
+[Linking this Project to Machine Learning](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#linking-this-project-to-machine-learning)
+
+[Machine Learning | Python | Scikit learn](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#machine-learning--python--scikit-learn)
+
+[Random Forest Classifier](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#random-forest-classifier)
+
+[Random Forest Classifier | R | origins | Breiman | Fortran](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#random-forest-classifier--r--origins--breiman--fortran)
+
+[R / python Random Forest comparison | origins](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#r--python-random-forest-comparison--origins)
+
 ## Background
 
 I began this Research Project by considering a few ideas.
