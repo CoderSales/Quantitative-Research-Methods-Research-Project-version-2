@@ -252,5 +252,13 @@ Google Scholar Search String: [Machine Learning fmri images](https://scholar.goo
 
 Result: [Fan, Y., Shen, D., and Davatzikos, C. (2006) Detecting Cognitive States from fMRI Images by Machine Learning and Multivariate Classification, Conferences >2006 Conference on Computer V... available: https://ieeexplore.ieee.org/abstract/document/1640530?casa_token=Cjz0bJxV6CYAAAAA:NybNn_T-fvHKkzm2oI1330BQgT2FN9m28OIIK8QI4o1r1EZLtnqaHbN9OUPSvR6KLcIyGPVT [accessed: 20-05-2024].](https://ieeexplore.ieee.org/abstract/document/1640530?casa_token=Cjz0bJxV6CYAAAAA:NybNn_T-fvHKkzm2oI1330BQgT2FN9m28OIIK8QI4o1r1EZLtnqaHbN9OUPSvR6KLcIyGPVT)
 
+The above paper talks about: "mass-univariate analysis techniques".
+
+### mass-univariate analysis techniques
+
+Google Search String: [mass-univariate analysis techniques](https://www.google.com/search?q=mass-univariate+analysis+techniques&sourceid=chrome&ie=UTF-8)
+
+Result: [Groppe, D., M., Urbach, T., P. and Kutas, M. (2011) Mass univariate analysis of event-related brain potentials/fields I: A critical tutorial review, Psychophysiology. 2011 Dec; 48(12): pp. 1711–1725.(edited form), 2011 Sep 6. (online), avaialble: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/ / doi: 10.1111/j.1469-8986.2011.01273.x [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/)
+
 
 
