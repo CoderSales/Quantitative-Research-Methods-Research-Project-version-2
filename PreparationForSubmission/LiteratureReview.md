@@ -99,6 +99,8 @@ Another Project I worked on to support this one was a Google Extension to allow 
 
 Here is the repository: [javascript-chrome-extension-2](https://github.com/CoderSales/javascript-chrome-extension-2).
 
+#### Note on Running Extension if Hosting Locally
+
 I am hosting it locally using the "load unpacked" button on the [chrome://extensions](chrome://extensions) page in the Google Chrome Browser.  
 
 The extension collects the web addresses of open pages (from a given Google Account, once the domain has been specified in the popup.js file), and assembles them in the Console.
