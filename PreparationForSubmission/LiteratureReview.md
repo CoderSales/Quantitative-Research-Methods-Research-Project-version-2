@@ -54,6 +54,8 @@ ERP = event-related brain potential
 
 ERF = event-related magnetic field
 
+ANOVA = Analysis of Variance
+
 ## Background
 
 I began this Research Project by considering a few ideas.
