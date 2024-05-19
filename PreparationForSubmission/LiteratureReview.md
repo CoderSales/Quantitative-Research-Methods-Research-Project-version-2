@@ -10,7 +10,7 @@
 
 [Development of Ideas](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#development-of-ideas)
 
-[Potential for Future Work](Development of Ideas)
+[Potential for Future Work](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#potential-for-future-work)
 
 [Application](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#application)
 
