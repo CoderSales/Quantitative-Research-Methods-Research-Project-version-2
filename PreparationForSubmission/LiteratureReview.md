@@ -293,3 +293,14 @@ The above abstract mentions that: "Event-related potentials (ERPs) and magnetic 
 
 [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
 
+#### AWS
+
+[AWS S3 Client Package](https://cran.r-project.org/web/packages/aws.s3/readme/README.html)
+
+#### GitHub
+
+##### This Project
+
+[Literature Review](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/edit/main/PreparationForSubmission/LiteratureReview.md)
+
+[Quantitative Research Methods Research Project version 1](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/)
