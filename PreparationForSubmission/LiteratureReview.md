@@ -158,6 +158,10 @@ From the above site: "aws.s3 is a simple client package for the Amazon Web Servi
 
 [Amazon EC2](https://aws.amazon.com/ec2/)
 
+From the Amazon EC2 website: "Amazon Elastic Compute Cloud (Amazon EC2) offers the broadest and deepest compute platform".
+
+Having access to large scale processing is one potential approach to address the issue of how to deal with the complexity of fmri images.
+
 
 
 
