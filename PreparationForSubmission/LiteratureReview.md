@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+[Nomenclature](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#nomenclature)
+
 [Background](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#background)
 
 [RShiny](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#rshiny)
@@ -45,6 +47,12 @@
 [Random Forest Classifier | R | origins | Breiman | Fortran](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#random-forest-classifier--r--origins--breiman--fortran)
 
 [R / python Random Forest comparison | origins](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#r--python-random-forest-comparison--origins)
+
+## Nomenclature
+
+ERP = event-related brain potential
+
+ERF = magnetic field
 
 ## Background
 
