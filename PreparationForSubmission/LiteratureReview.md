@@ -14,7 +14,7 @@ I started learning Java last semester and R this semester.
 
 There is some documentation for combining Java and R.
 
-However, after a recommendation by two different lecturers, one in Political Science and the other my Module Director Dr. James Sweeney, I decided to use RShiny.
+However, after a recommendation by two different lecturers, one in Political Science and the other the Quantitative Research Methods Module Director Dr. James Sweeney, I decided to use RShiny.
 
 The first step in the process was downloading and installing R.
 
