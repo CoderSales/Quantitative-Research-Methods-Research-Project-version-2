@@ -242,6 +242,7 @@ I feel the python version has nice documentation, in that it describes the model
 
 However, it is also interesting to see that the R Docummentation clearly identifies that Breiman was involved in origins of the idea, originally in Fortran, and makes reference to the site: [Random Forests | Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/) which identifies that Random Forests are a trademark (TM) of Leo Breiman and Adele Cutler.
 
+Here is the R Reference Manual for the Random Forest package [Package ‘randomForest’](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf).
 
 
 
