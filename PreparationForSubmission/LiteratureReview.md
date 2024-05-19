@@ -123,4 +123,9 @@ These are the open tabs separated per window by horizontal rules.
 
 ____
 
+### Note on Andrea Stocco Paper
 
+I was able to run the code and reproduce the images from [Coordinate-Based Meta-Analysis of fMRI
+Studies with R | by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) except for the last line on page 13, before the Summary whereby running the display legend command gave an error instead of the legend.
+
+____
