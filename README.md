@@ -6,6 +6,9 @@ Project idea for analysing (simulated or Kaggle dataset) brain waves (possibly u
 
 ## [Literature Review](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md)
 
+[Literature Review](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md)
+
+
 ## Content
 
 [CurrentStatus](/Documentation/09on20240516at1111hours/A02humanconnectome.md)
