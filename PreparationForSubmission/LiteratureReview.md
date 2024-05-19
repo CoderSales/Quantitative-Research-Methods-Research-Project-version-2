@@ -44,7 +44,7 @@ ____
 
 One idea for this project was to try to use some sort of frequency processing on EEG brain wave data.  On discussion Dr. Sweeney emphasised the importance of simplicity and clear focus with the project.  To that end it was important to use something that would be achievable in the timeframe.  Instead of trying to use EEG data, perhaps brain images may be easier to work with.  I noticed that one approach with handling images is to lower the resolution, in order to simplify the process of extracting meaning.  Another simplification proposed by Dr. Sweeney was to focus on edge detection for simpler shapes.  Noted issues for fMRI images were the complexity.  Dr. Sweeney pointed out that these are essentially numerous cross section images of the brain, and therefore, the processing needs can be challenging.   From this and consultation with literature, sources were found to deal with this.  Amazon Web Services allows processing using their servers, S3 buckets.  I accessed a public dataset to this end and set up an EC2 (Elastic Compute) instance.
 
-I was able to run some analyses using AWS and the fmri R-Package.  Another related R package was oro.nifti. 
+I was able to run some analyses using AWS and the fmri R-Package.  Other related R packages were oro.nifti, and neruohcp. 
 
 One related source was the Human Connectome Project (HCP).
 
