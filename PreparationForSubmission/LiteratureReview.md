@@ -168,7 +168,7 @@ Having access to large scale processing is one potential approach to address the
 
 ### Linking this Project to Machine Learning
 
-Although development herein was only entry level and exploratory, 
+Although development herein was experimental, issues involved would include: machine learning for edge detection.
 
 ### Machine Learning | Python | Scikit learn
 
