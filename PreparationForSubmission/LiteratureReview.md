@@ -599,6 +599,8 @@ ____
 
 ____
 
+[Emmert-Streib, F. et al. (2020) ‘An introductory review of Deep Learning for prediction models with Big Data’, Frontiers in Artificial Intelligence, 3., available: doi:10.3389/frai.2020.00004. / https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full, [available: 20-05-2024]](https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full)
+
 ## Theory
 
 ### t distribution
