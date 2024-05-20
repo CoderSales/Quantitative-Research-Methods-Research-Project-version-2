@@ -177,7 +177,7 @@ shinyApp(ui = ui, server = server)
 
 ____
 
-The first allowed for a Web App to run from a single file.
+The first tutorial allowed for a Web App to run from a single file.
 
 The second allowed for two files to run the website, an app.r file and a server.r file.  This configuration is compatible with the client-server Web paradigm.
 
