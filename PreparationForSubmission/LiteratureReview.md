@@ -308,7 +308,7 @@ Selecting Inspect
 
 and then Clicking Console in the top of the Windows which opens,
 
-and scrolling down to (on the right hand side of the page popup.js:82
+and scrolling down to (on the right hand side of the page) popup.js:82
 
 copying all the formatted references 
 
@@ -322,6 +322,16 @@ ____
 
 I was able to run the code and reproduce the images from [Stocco, A. (2004) Coordinate-Based Meta-Analysis of fMRI
 Studies with R, The R Journal Vol. 6/2, December 2014, available: https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf.](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf) except for the last line on page 13, before the Summary whereby running the display legend command gave an error instead of the legend.
+
+This paper seemed to imply that when brain responds to stimulus, afterwards, there is a hemodynamic response, whereby blood flow follows to the area which has just been stimulated (say by viewing an image) and this blood flow response is called the hemodynamic response, shown here.
+
+![Paper Hemodynamic Response Plot](/src/images/Screenshot-2024-04-22-133944-PaperHemodynamicResponsePlot.png)
+
+This shows that there appears to be a 5 second delay between stimulus and electrical activity and subsequent blood flow to the area to replenish oxygen.
+
+[Functional MRI (fMRI)](https://my.clevelandclinic.org/health/diagnostics/25034-functional-mri-fmri)
+
+[EEG-Correlated fMRI: A Promising Tool in the Multimodal Evaluation of Refractory Epilepsy](https://consultqd.clevelandclinic.org/eeg-correlated-fmri-a-promising-tool-in-the-multimodal-evaluation-of-refractory-epilepsy)
 
 ____
 
@@ -593,6 +603,12 @@ software development for computational biology and bioinformatics. Genome Biolog
 #### cran.r-project | Papers
 
 [Coordinate-Based Meta-Analysis of fMRI | Studies with R | by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf)
+
+##### Background Theory on Hemodynamic Response
+
+[Functional MRI (fMRI)](https://my.clevelandclinic.org/health/diagnostics/25034-functional-mri-fmri)
+
+[EEG-Correlated fMRI: A Promising Tool in the Multimodal Evaluation of Refractory Epilepsy](https://consultqd.clevelandclinic.org/eeg-correlated-fmri-a-promising-tool-in-the-multimodal-evaluation-of-refractory-epilepsy)
 
 ### Webpages
 
