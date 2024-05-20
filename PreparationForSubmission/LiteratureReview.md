@@ -66,6 +66,8 @@ CNN = Convolutional Neural Network
 
 AMI = Amazon Machine Image
 
+EMR = Amazon Elastic MapReduce
+
 ## Background
 
 I began this Research Project by considering a few ideas.
@@ -387,6 +389,12 @@ ____
 
 ____
 
+"Amazon EMR (previously called Amazon Elastic MapReduce) is a managed cluster platform that simplifies running big data frameworks"
+
+[What is Amazon EMR?](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html)
+
+____
+
 ##### AWS AMI
 
 "An Amazon Machine Image (AMI) is a supported and maintained image provided by AWS that provides the information required to launch an instance."
@@ -672,6 +680,8 @@ ____
 [AWS CLI Command Reference | create-cluster | version 2 | stable | recommended](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-cluster.html)
 
 [Amazon EMR 2.x and 3.x AMI versions](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-3x.html)
+
+[What is Amazon EMR?](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html)
 
 [Amazon Machine Images (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
 
