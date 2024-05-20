@@ -175,6 +175,8 @@ shinyApp(ui = ui, server = server)
 
 ```
 
+Figure: R Code from RShiny App from the introductionary tutorial
+
 ____
 
 The first tutorial allowed for a Web App to run from a single file.
