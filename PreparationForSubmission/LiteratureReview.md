@@ -436,6 +436,10 @@ The SEP kernel seems to have different names, but according to the above documen
 
 ____
 
+Investopedia describes GARCH ([Generalized AutoRegressive Conditional Heteroskedasticity (GARCH)](https://www.investopedia.com/terms/g/garch.asp#:~:text=GARCH%20is%20a%20statistical%20modeling,an%20autoregressive%20moving%20average%20process.)) as a statistical model for analysing time-series data that is serially correlated.  Although on that reference, it refers to stock prices and other Securities, in the case of this project it could relate to EEG and ECG traces.
+
+____
+
 ## The R Quest Paper
 
 [The R Quest: from Users to Developers | by Simon Urbanek](https://journal.r-project.org/archive/2021/RJ-2021-111/RJ-2021-111.pdf)
