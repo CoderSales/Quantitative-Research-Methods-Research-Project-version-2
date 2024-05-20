@@ -603,7 +603,7 @@ ____
 
 ### t distribution
 
-[Lange ety al 1989)](https://www.tandfonline.com/doi/citedby/10.1080/01621459.1989.10478852?scroll=top&needAccess=true) state that the t-distribution extends the normal distribution.
+[Lange et al 1989)](https://www.tandfonline.com/doi/citedby/10.1080/01621459.1989.10478852?scroll=top&needAccess=true) state that the t-distribution extends the normal distribution.
 
 
 
