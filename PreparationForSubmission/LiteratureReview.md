@@ -175,6 +175,38 @@ The first allowed for a Web App to run from a single file.
 
 The second allowed for two files to run the website, an app.r file and a server.r file.  This configuration is compatible with the client-server Web paradigm.
 
+____
+
+## R App Setup
+
+from [Documentation](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html):
+
+1. create a directory:
+
+`newdir`
+
+2. create a file inside directory called:
+
+`app.R`
+
+3. assemble code 
+
+- 3 parts to code:
+    
+    - call to shiny app
+ 
+    - ui definition
+ 
+    - server
+
+- comment out any `...` code for `ui` and `server`
+
+  and replace it with the given code in documentation
+
+  for `ui` and `server`
+
+____
+
 There was a step to use RServer, which I made some inroads into also.
 
 ____
