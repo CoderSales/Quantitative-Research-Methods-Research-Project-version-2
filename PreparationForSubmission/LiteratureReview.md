@@ -56,6 +56,8 @@ ERF = event-related magnetic field
 
 ANOVA = Analysis of Variance
 
+CRAN = Comprehensive R Archive Network
+
 ## Background
 
 I began this Research Project by considering a few ideas.
@@ -423,6 +425,13 @@ ____
 ## Paper
 
 [The R Quest: from Users to Developers | by Simon Urbanek](https://journal.r-project.org/archive/2021/RJ-2021-111/RJ-2021-111.pdf)
+
+(Urbank 2021) speaks about "dichotomy between analytics and software engineering in the R ecosystem", "building new tools", which "is different from data analysis and requires different skills and tools".
+
+He mentions that "at some point an R user may become an R developer, crossing the line from analysis into software engineering".
+
+He also defines the acronym CRAN which is "Comprehensive R Archive Network".
+
 
 ____
 
