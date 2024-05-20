@@ -731,4 +731,6 @@ ____
 
 [Biometric Recognition: A Systematic Review on Electrocardiogram Data Acquisition Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9921530/)
 
+### Wave Processing in Music and Digital Emulation of Analog Synthesis
 
+[Hans Zimmer presents THE LEGEND HZ Synthesizer | YouTube | available: https://youtu.be/pDIif8n8sXg?t=60, [acessed 20-05-2024].](https://youtu.be/pDIif8n8sXg?t=60)
