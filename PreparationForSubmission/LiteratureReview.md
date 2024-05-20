@@ -58,6 +58,8 @@ ANOVA = Analysis of Variance
 
 CRAN = Comprehensive R Archive Network
 
+rPACI = the R package rPACI (Placido Analysis of Corneal Irregularity)
+
 ## Background
 
 I began this Research Project by considering a few ideas.
@@ -89,6 +91,8 @@ Then I got RShiny running.
 #### Software Framework
 
 RShiny is a frontend framework for presenting analysis done using R visually in a webpage.
+
+Here is an example of analysis presented using RShiny: [Ramos-López and Maldonado (2021) the R package rPACI (Placido Analysis of Corneal Irregularity](https://journal.r-project.org/archive/2021/RJ-2021-099/RJ-2021-099.pdf)
 
 ## Progress (Continued)
 
@@ -515,9 +519,11 @@ software development for computational biology and bioinformatics. Genome Biolog
 
 #### RShiny
 
-[ Shiny Basics > Welcome to Shiny > Welcome to Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
+[Shiny Basics > Welcome to Shiny > Welcome to Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
 
 [RShiny](https://www.rstudio.com/products/shiny/)
+
+[Ramos-López, R. and Ana D. Maldonado, A., D. (2021) Analysis of Corneal Data in R with the rPACI Package](https://journal.r-project.org/archive/2021/RJ-2021-099/RJ-2021-099.pdf)
 
 ### Models
 
