@@ -764,3 +764,11 @@ ____
 ### Wave Processing in Music and Digital Emulation of Analog Synthesis
 
 [Hans Zimmer presents THE LEGEND HZ Synthesizer | YouTube | available: https://youtu.be/pDIif8n8sXg?t=60, [acessed 20-05-2024].](https://youtu.be/pDIif8n8sXg?t=60)
+
+____
+
+## Theory
+
+### t- distribution
+
+[Lange, K. L., Little, R. J. A. and Taylor, J. M. G. (1989) ‘Robust Statistical Modeling Using the t Distribution’, Journal of the American Statistical Association, 84(408), pp. 881–896. doi: 10.1080/01621459.1989.10478852.](https://www.tandfonline.com/doi/citedby/10.1080/01621459.1989.10478852?scroll=top&needAccess=true)
