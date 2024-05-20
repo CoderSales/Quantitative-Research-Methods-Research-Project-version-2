@@ -68,6 +68,10 @@ Another was to try to combine R with another programming language.
 
 The first idea here was to try to incorporate Java with R.
 
+[The R Quest: from Users to Developers | by Simon Urbanek](https://journal.r-project.org/archive/2021/RJ-2021-111/RJ-2021-111.pdf)
+
+(Urbank 2021) mentioned the combination of Java with R in his paper on "The R Quest: from Users to Developers".
+
 I started learning Java last semester and R this semester.
 
 There is some documentation for combining Java and R.
