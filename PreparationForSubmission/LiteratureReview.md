@@ -425,11 +425,16 @@ Li, Ghosal (2017) Bayesian detection of image boundaries, Ann. Statist. 45(5): 2
 
 #### R
 
-[ Shiny Basics > Welcome to Shiny > Welcome to Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
 
 [Geyser eruption duration](https://gallery.shinyapps.io/083-front-page/)
 
 [Faithful](https://shiny.posit.co/r/gallery/start-simple/faithful/)
+
+#### RShiny
+
+[ Shiny Basics > Welcome to Shiny > Welcome to Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
+
+[RShiny](https://www.rstudio.com/products/shiny/)
 
 #### Machine Learning
 
