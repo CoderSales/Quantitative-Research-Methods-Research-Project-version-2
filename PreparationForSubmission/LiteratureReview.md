@@ -68,9 +68,9 @@ AMI = Amazon Machine Image
 
 EMR = Amazon Elastic MapReduce
 
-EEG _ Electroencephalogram
+EEG = Electroencephalogram
 
-ECG / (EKG) = Electro Cardio Gram
+ECG / (EKG) = Electrocardiogram
 
 ## Abstract
 
