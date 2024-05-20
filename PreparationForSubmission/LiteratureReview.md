@@ -467,12 +467,12 @@ Li, Ghosal (2017) Bayesian detection of image boundaries, Ann. Statist. 45(5): 2
 
 #### Bioconductor
 
-R. C. Gentleman, V. J. Carey, D. M. Bates, B. Bolstad, M. Dettling, S. Dudoit, B. Ellis, L. Gautier, Y. Ge,
+[R. C. Gentleman, V. J. Carey, D. M. Bates, B. Bolstad, M. Dettling, S. Dudoit, B. Ellis, L. Gautier, Y. Ge,
 J. Gentry, K. Hornik, T. Hothorn, W. Huber, S. Iacus, R. Irizarry, F. Leisch, C. Li, M. Maechler, A. J.
 Rossini, G. Sawitzki, C. Smith, G. Smyth, L. Tierney, J. Y. Yang, and J. Zhang. Bioconductor: open
 software development for computational biology and bioinformatics. Genome Biology, 5(10):R80, Sep
 2004. ISSN 1474-760X. doi: 10.1186/gb-2004-5-10-r80. URL https://doi.org/10.1186/gb-2004-
-5-10-r80. [p23]
+5-10-r80. / https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80 [p23]](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80)
 
 
 
