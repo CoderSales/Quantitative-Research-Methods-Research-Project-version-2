@@ -420,6 +420,19 @@ based on the analytical eigendecomposition of the squared exponential periodic
 
 ____
 
+## Paper
+
+[The R Quest: from Users to Developers | by Simon Urbanek](https://journal.r-project.org/archive/2021/RJ-2021-111/RJ-2021-111.pdf)
+
+____
+
+## Paper on Image analysis
+
+[paper using the rPACI package](https://journal.r-project.org/archive/2021/RJ-2021-099/RJ-2021-099.pdf)
+
+
+____
+
 ## References
 
 ### Conferences
