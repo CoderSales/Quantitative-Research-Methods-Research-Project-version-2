@@ -60,6 +60,10 @@ CRAN = Comprehensive R Archive Network
 
 rPACI = the R package rPACI (Placido Analysis of Corneal Irregularity)
 
+MLP = multi-layer perceptron
+
+CNN = Convolutional Neural Network
+
 ## Background
 
 I began this Research Project by considering a few ideas.
@@ -475,6 +479,29 @@ ____
 
 [paper using the rPACI package](https://journal.r-project.org/archive/2021/RJ-2021-099/RJ-2021-099.pdf)
 
+____
+
+## Image Analysis
+
+(Gye and Milmo 2024) in an Exclusive article in The i Newspaper reported a "Revolutionary AI trial offers breast cancer hope for millions on NHS...".
+
+The company collaborating with the NHS is called Lunit.
+
+They have: the "Lunit INSIGHT CXR for Chest Radiography Version 3.110, Lunit, Seoul, Republic of Korea. The AI system used a ResNet34-based deep convolutional neural network with 10 different abnormality specific channels in the final layer."
+
+[Vasilev, Y., Vladzymyrskyy, A., Omelyanskaya, O., Blokhin, I., Kirpichev, Y., & Arzamasov, K. (2023). AI-Based CXR First Reading: Current Limitations to Ensure Practical Value. Diagnostics (Basel, Switzerland), 13(8), 1430. available: https://doi.org/10.3390/diagnostics13081430 / https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138086/ [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138086/)
+
+These are two applications of image analysis by Lunit.
+
+[Lulu Niu, Gang Xiong∗, Zhen Shen, Zhouxian Pan, Shi Chen, Xisong Dong (2021) Face Image Based Automatic Diagnosis by Deep Neural Networks](https://www.researchgate.net/publication/354224999_Face_Image_Based_Automatic_Diagnosis_by_Deep_Neural_Networks)
+
+This paper talks about ResNet trained on facial data, with increased accuracy from 83.4% to 97.22 % by using larger datasets.
+
+It also mentions a multi-layer perceptron (MLP).
+
+It describes the ResNet34 CNN Network.
+
+The paper also mentions: "an ADHD classification model on MRI with extreme learning machine (ELM) algorithm". It also mentions a CNN based Computer-Aided Diagnosis (CAD) system for breast cancer screening".
 
 ____
 
@@ -525,9 +552,22 @@ software development for computational biology and bioinformatics. Genome Biolog
 
 [Ramos-López, R. and Ana D. Maldonado, A., D. (2021) Analysis of Corneal Data in R with the rPACI Package](https://journal.r-project.org/archive/2021/RJ-2021-099/RJ-2021-099.pdf)
 
+### Image Analysis
+
+[Vasilev, Y., Vladzymyrskyy, A., Omelyanskaya, O., Blokhin, I., Kirpichev, Y., & Arzamasov, K. (2023). AI-Based CXR First Reading: Current Limitations to Ensure Practical Value. Diagnostics (Basel, Switzerland), 13(8), 1430. available: https://doi.org/10.3390/diagnostics13081430 / https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138086/ [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138086/)
+
+Gye, H. and Milmo, C. (2024) Revolutionary AI trial offers breast cancer hope for millions on NHS, reveals Sunak, | i | Newspaper | published: 20 May 2024 | pp. 1, 6, [accessed: 20-May-2024].
+
 ### Models
 
 #### Machine Learning
+
+##### CNN
+
+###### ResNet34
+
+[Lulu Niu, Gang Xiong∗, Zhen Shen, Zhouxian Pan, Shi Chen, Xisong Dong (2021) Face Image Based Automatic Diagnosis by Deep Neural Networks](https://www.researchgate.net/publication/354224999_Face_Image_Based_Automatic_Diagnosis_by_Deep_Neural_Networks)
+
 
 ##### Machine Learning in Python
 
