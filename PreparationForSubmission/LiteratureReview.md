@@ -359,6 +359,30 @@ The following documentation outlines how to do Authentication with AWS.  [Authen
 
 The following outlines how to run R on AWS. [Running R on AWS | Schmidberger, M. and Friedman, A. (2015) | on 23 JUL 2015 | in Analytics, AWS Big Data available: https://aws.amazon.com/blogs/big-data/running-r-on-aws/ [accessed 20-05-2024].](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
 
+#### AWS EMR
+
+"Amazon EMR is a web service that makes it easy to process vast amounts of data efficiently using Apache Hadoop and services offered by Amazon Web Services."
+
+[Amazon EMR Documentation](https://docs.aws.amazon.com/emr/)
+
+[Creating a cluster with earlier AMI versions of Amazon EMR](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-3x-create.html)
+
+____
+
+- The following command:
+
+```bash
+create-cluster
+```
+
+"creates an Amazon EMR cluster with the specified configurations."
+
+[AWS CLI Command Reference | create-cluster](https://docs.aws.amazon.com/cli/latest/reference/emr/create-cluster.html)
+
+____
+
+[Amazon EMR 2.x and 3.x AMI versions](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-3x.html)
+
 ## Note on Theory of Machine Learning
 
 ### Linking this Project to Machine Learning
@@ -620,6 +644,22 @@ GARCH Investopedia ([Generalized AutoRegressive Conditional Heteroskedasticity (
 ##### AWS EC2
 
 [Amazon EC2](https://aws.amazon.com/ec2/)
+
+#### AWS EMR
+
+"Amazon EMR is a web service that makes it easy to process vast amounts of data efficiently using Apache Hadoop and services offered by Amazon Web Services."
+
+[Amazon EMR Documentation](https://docs.aws.amazon.com/emr/)
+
+[Creating a cluster with earlier AMI versions of Amazon EMR](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-3x-create.html)
+
+____
+
+[AWS CLI Command Reference | create-cluster](https://docs.aws.amazon.com/cli/latest/reference/emr/create-cluster.html)
+
+[Amazon EMR 2.x and 3.x AMI versions](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-3x.html)
+
+____
 
 #### GitHub
 
