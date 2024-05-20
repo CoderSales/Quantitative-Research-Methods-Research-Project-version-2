@@ -746,6 +746,12 @@ ____
 
 [Quantitative Research Methods Research Project version 1](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/)
 
+#### Referencing Tools
+
+[AI-Research-Project-Referencing-Program](https://github.com/CoderSales/AI-Research-Project-Referencing-Program)
+
+[Cite this for me | Create Harvard, APA & MLA citations](https://www.citethisforme.com/)
+
 ### Biometrics
 
 #### ECG
