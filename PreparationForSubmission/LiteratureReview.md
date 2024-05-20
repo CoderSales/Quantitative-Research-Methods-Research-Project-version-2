@@ -351,6 +351,14 @@ From the Amazon EC2 website: "Amazon Elastic Compute Cloud (Amazon EC2) offers t
 
 Having access to large scale processing is one potential approach to address the issue of how to deal with the complexity of fmri images.
 
+### AWS Authentication for Key Management Service
+
+The following documentation outlines how to do Authentication with AWS.  [Authentication and access control for AWS KMS](https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html)
+
+#### R on AWS
+
+The following outlines how to run R on AWS. [Running R on AWS | Schmidberger, M. and Friedman, A. (2015) | on 23 JUL 2015 | in Analytics, AWS Big Data available: https://aws.amazon.com/blogs/big-data/running-r-on-aws/ [accessed 20-05-2024].](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
+
 ## Note on Theory of Machine Learning
 
 ### Linking this Project to Machine Learning
@@ -597,7 +605,19 @@ GARCH Investopedia ([Generalized AutoRegressive Conditional Heteroskedasticity (
 
 #### AWS
 
+##### AWS Authentication, Key Management Service
+
+[Authentication and access control for AWS KMS](https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html)
+
+##### R on AWS
+
+[Running R on AWS | Schmidberger, M. and Friedman, A. (2015) | on 23 JUL 2015 | in Analytics, AWS Big Data available: https://aws.amazon.com/blogs/big-data/running-r-on-aws/ [accessed 20-05-2024].](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
+
+##### AWS S3
+
 [AWS S3 Client Package](https://cran.r-project.org/web/packages/aws.s3/readme/README.html)
+
+##### AWS EC2
 
 [Amazon EC2](https://aws.amazon.com/ec2/)
 
