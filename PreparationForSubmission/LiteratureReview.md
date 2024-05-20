@@ -64,6 +64,8 @@ MLP = multi-layer perceptron
 
 CNN = Convolutional Neural Network
 
+AMI = Amazon Machine Image
+
 ## Background
 
 I began this Research Project by considering a few ideas.
@@ -383,6 +385,16 @@ ____
 
 [Amazon EMR 2.x and 3.x AMI versions](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-3x.html)
 
+____
+
+##### AWS AMI
+
+"An Amazon Machine Image (AMI) is a supported and maintained image provided by AWS that provides the information required to launch an instance."
+
+[Amazon Machine Images (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
+
+____
+
 ## Note on Theory of Machine Learning
 
 ### Linking this Project to Machine Learning
@@ -468,7 +480,7 @@ based on the analytical eigendecomposition of the squared exponential periodic
 
 ____
 
-In the ([Li and Ghosal 2017](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full) paper they "propose a nonparametric Bayesian method tailored to detect the boundary γ0."
+In the ([Li and Ghosal 2017](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full)) paper they "propose a nonparametric Bayesian method tailored to detect the boundary γ0."
 
 They refer to the "squared exponential periodic (SEP) kernel", which is discussed in the python documentation here: [sklearn.gaussian_process.kernels.ExpSineSquared](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.ExpSineSquared.html).
 
@@ -655,9 +667,13 @@ GARCH Investopedia ([Generalized AutoRegressive Conditional Heteroskedasticity (
 
 ____
 
-[AWS CLI Command Reference | create-cluster](https://docs.aws.amazon.com/cli/latest/reference/emr/create-cluster.html)
+[AWS CLI Command Reference | create-cluster | version 1](https://docs.aws.amazon.com/cli/latest/reference/emr/create-cluster.html)
+
+[AWS CLI Command Reference | create-cluster | version 2 | stable | recommended](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-cluster.html)
 
 [Amazon EMR 2.x and 3.x AMI versions](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-3x.html)
+
+[Amazon Machine Images (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
 
 ____
 
