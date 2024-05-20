@@ -447,6 +447,10 @@ ____
 
 ____
 
+
+
+
+
 ## References
 
 ### Conferences
@@ -458,6 +462,18 @@ ____
 [Groppe, D., M., Urbach, T., P. and Kutas, M. (2011) Mass univariate analysis of event-related brain potentials/fields I: A critical tutorial review, Psychophysiology. 2011 Dec; 48(12): pp. 1711–1725.(edited form), 2011 Sep 6. (online), avaialble: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/ / doi: 10.1111/j.1469-8986.2011.01273.x [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/)
 
 Li, Ghosal (2017) Bayesian detection of image boundaries, Ann. Statist. 45(5): 2190-2217 (October 2017). DOI: 10.1214/16-AOS1523 available: https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full
+
+### PubMed
+
+#### Bioconductor
+
+R. C. Gentleman, V. J. Carey, D. M. Bates, B. Bolstad, M. Dettling, S. Dudoit, B. Ellis, L. Gautier, Y. Ge,
+J. Gentry, K. Hornik, T. Hothorn, W. Huber, S. Iacus, R. Irizarry, F. Leisch, C. Li, M. Maechler, A. J.
+Rossini, G. Sawitzki, C. Smith, G. Smyth, L. Tierney, J. Y. Yang, and J. Zhang. Bioconductor: open
+software development for computational biology and bioinformatics. Genome Biology, 5(10):R80, Sep
+2004. ISSN 1474-760X. doi: 10.1186/gb-2004-5-10-r80. URL https://doi.org/10.1186/gb-2004-
+5-10-r80. [p23]
+
 
 
 
