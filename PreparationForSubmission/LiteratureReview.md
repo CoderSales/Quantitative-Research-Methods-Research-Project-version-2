@@ -587,6 +587,9 @@ This white paper mentions that images can be "freely uploaded to "[https://insig
 
 ____
 
+(Géron 2023, p. 515) outlines an implementation of the ResNet34 CNN model.
+
+____
 
 
 
@@ -658,6 +661,9 @@ Gye, H. and Milmo, C. (2024) Revolutionary AI trial offers breast cancer hope fo
 
 [Lulu Niu, Gang Xiong∗, Zhen Shen, Zhouxian Pan, Shi Chen, Xisong Dong (2021) Face Image Based Automatic Diagnosis by Deep Neural Networks](https://www.researchgate.net/publication/354224999_Face_Image_Based_Automatic_Diagnosis_by_Deep_Neural_Networks)
 
+Géron, A. (2023) Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent System, 3rd ed., p. 515
+
+[É (2024) Wikipedia, available: https://en.wikipedia.org/wiki/%C3%89 [accessed: 20-05-2024 at 2201 hours].](https://en.wikipedia.org/wiki/%C3%89)
 
 ##### Machine Learning in Python
 
