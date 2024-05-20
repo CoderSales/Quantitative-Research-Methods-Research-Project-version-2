@@ -280,6 +280,9 @@ EKG AND EEG analysis would be potential applications if a wave analysis platform
 
 Dubin, D. (1993) Rapid Interpretation of EKG's ... a programmed course Revised and Updated: Dubin's classic, simplified methodology for understanding EKG's 4th ed.
 
+## Baysian Detection of Image Boundaries
+
+Li, Ghosal (2017) Bayesian detection of image boundaries, Ann. Statist. 45(5): 2190-2217 (October 2017). DOI: 10.1214/16-AOS1523 available: https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full
 
 ## References
 
@@ -290,6 +293,10 @@ Dubin, D. (1993) Rapid Interpretation of EKG's ... a programmed course Revised a
 ### Journals Articles / Papers
 
 [Groppe, D., M., Urbach, T., P. and Kutas, M. (2011) Mass univariate analysis of event-related brain potentials/fields I: A critical tutorial review, Psychophysiology. 2011 Dec; 48(12): pp. 1711–1725.(edited form), 2011 Sep 6. (online), avaialble: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/ / doi: 10.1111/j.1469-8986.2011.01273.x [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060794/)
+
+Li, Ghosal (2017) Bayesian detection of image boundaries, Ann. Statist. 45(5): 2190-2217 (October 2017). DOI: 10.1214/16-AOS1523 available: https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full
+
+
 
 #### cran.r-project | Papers
 
