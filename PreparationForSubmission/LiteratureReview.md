@@ -430,7 +430,9 @@ ____
 
 In the ([Li and Ghosal 2017](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full) paper they "propose a nonparametric Bayesian method tailored to detect the boundary γ0."
 
-They also refer to the "squared exponential periodic (SEP) kernel", which is discussed in the python documentation here: [sklearn.gaussian_process.kernels.ExpSineSquared](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.ExpSineSquared.html).
+They refer to the "squared exponential periodic (SEP) kernel", which is discussed in the python documentation here: [sklearn.gaussian_process.kernels.ExpSineSquared](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.ExpSineSquared.html).
+
+The SEP kernel seems to have different names, but according to the above documentation, it is used "to model functions which repeat themselves exactly".
 
 ____
 
