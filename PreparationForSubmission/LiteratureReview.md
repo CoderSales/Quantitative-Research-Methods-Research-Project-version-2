@@ -599,7 +599,11 @@ ____
 
 ____
 
-[Emmert-Streib, F. et al. (2020) ‘An introductory review of Deep Learning for prediction models with Big Data’, Frontiers in Artificial Intelligence, 3., available: doi:10.3389/frai.2020.00004. / https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full, [available: 20-05-2024]](https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full)
+## Deep Learning
+
+[Emmert-Streib et al. 2020)](https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full) give a history of developments in deep learning in section 2 of the paper.  Section 3 they go through Neural Network architectures.  Section 3.2 goes through Feedforward Neural Networks, and state that more than two hidden layers is considered a deep network.  The paper goes on to mention that these are also referred to as MLP Multi Layer Perceptrons.
+
+Secton 3.3 describes Recurrent Neural Networks and Section 3.3.2 talks about Boltzmann machines.  Section 4. talks about Deep Feedforward Networks. Section 5 talks about Convolutional Neural Networks, including Convolutional, Pooling and Fully-Connected Layers.  Sectio 5.2.2. describes the GoogLeNet With Inception and Section 5.2.3 details the ResNet, whereby it says deeper CNN structures and deeper Belief Networks perform better, theoretically.  Section 6 talks about Deep Belif Networks, with an untrained Unsupervised Learning Phase, and a Trained Supervised Learning Phase with parameter tuning.  Here the Error function MSE (Mean Squared Error) loss function is minimised.
 
 ## Theory
 
@@ -777,6 +781,12 @@ ____
 ### Wave Processing in Music and Digital Emulation of Analog Synthesis
 
 [Hans Zimmer presents THE LEGEND HZ Synthesizer | YouTube | available: https://youtu.be/pDIif8n8sXg?t=60, [acessed 20-05-2024].](https://youtu.be/pDIif8n8sXg?t=60)
+
+____
+
+### Deep Learning
+
+[Emmert-Streib, F. et al. (2020) ‘An introductory review of Deep Learning for prediction models with Big Data’, Frontiers in Artificial Intelligence, 3., available: doi:10.3389/frai.2020.00004. / https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full, [available: 20-05-2024]](https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full)
 
 ____
 
