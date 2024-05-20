@@ -68,6 +68,14 @@ AMI = Amazon Machine Image
 
 EMR = Amazon Elastic MapReduce
 
+EEG _ Electroencephalogram
+
+ECG / (EKG) = Electro Cardio Gram
+
+## Abstract
+
+This is a literature review and experimental project to answer the research question: can music synthesis technologies be used in the modelling and analysis of EEG (brain wave) and ECG (heart electrical wave) traces.  Due to the more direct processing of images, fMRI images were replicated from studies.  It is also noted from the literature that both EEG (more commonly), and ECG (less commonly), can be done with fMRI. Literature was referenced which deals with machine learning and image analysis.  Also, RShiny basic tutorials were followed to demonstrate the use of the Framework to display analysis performed usng the programming language R, and to increase the number of R users and convert some to be R programmers.  Machine Learning and Statistical Models were referenced for different ways to approach image analysis and boundary detection.
+
 ## Background
 
 I began this Research Project by considering a few ideas.
@@ -736,6 +744,22 @@ ____
 #### ECG
 
 [Biometric Recognition: A Systematic Review on Electrocardiogram Data Acquisition Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9921530/)
+
+#### EEG and fMRI
+
+[Moeller, F. et al. (2009a) EEG-fmri: Adding to standard evaluations of patients with Nonlesional Frontal Lobe epilepsy, Neurology. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881856/ (Accessed: 20 May 2024).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881856/)
+
+____
+
+#### EEG-fMRI using ECG
+
+[Rodolfo Abreu and Sandro Nunes and Alberto Leal and Patrícia Figueiredo (2017) 'Physiological noise correction using ECG-derived respiratory signals for enhanced mapping of spontaneous neuronal activity with simultaneous EEG-fMRI', NeuroImage, 154() pp. 115-127, available: https://doi.org/10.1016/j.neuroimage.2016.08.008 / https://www.sciencedirect.com/science/article/pii/S105381191630386X [accessed 2024-05-20].](https://www.sciencedirect.com/science/article/pii/S105381191630386X?casa_token=QqKuzZgPHvIAAAAA:pEST11nmvR-MYrYDdRitkjpZrQeHNWfnnrMsCjcN7MuJrhopwFEpuoeB2UEPz_B4jZ7v-BE_)
+
+#### EEG-MRI and EKG 
+
+[Lee, Hsin-Ju and Graham, Simon J. and Kuo, Wen-Jui and Lin, Fa-Hsuan (2022) 'Ballistocardiogram suppression in concurrent EEG-MRI by dynamic modeling of heartbeats', Human Brain Mapping, 43(14) pp. 4444-4457, available: https://doi.org/10.1002/hbm.25965 / https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.25965 [accessed 2024-05-20].](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25965)
+
+____
 
 ### Wave Processing in Music and Digital Emulation of Analog Synthesis
 
