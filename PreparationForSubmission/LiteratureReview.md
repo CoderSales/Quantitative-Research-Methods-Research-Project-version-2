@@ -605,6 +605,8 @@ ____
 
 Secton 3.3 describes Recurrent Neural Networks and Section 3.3.2 talks about Boltzmann machines.  Section 4. talks about Deep Feedforward Networks. Section 5 talks about Convolutional Neural Networks, including Convolutional, Pooling and Fully-Connected Layers.  Sectio 5.2.2. describes the GoogLeNet With Inception and Section 5.2.3 details the ResNet, whereby it says deeper CNN structures and deeper Belief Networks perform better, theoretically.  Section 6 talks about Deep Belif Networks, with an untrained Unsupervised Learning Phase, and a Trained Supervised Learning Phase with parameter tuning.  Here the Error function MSE (Mean Squared Error) loss function is minimised.
 
+Section 9.2 mentions that CNN's can process high-dimensional input, which could be potentially used to decompose sound waves into constituent elements.  It also says the pooling layer can down-sample input, which is beneficial for edge detection in image analysis.
+
 ## Theory
 
 ### t distribution
