@@ -438,6 +438,16 @@ He also defines the acronym CRAN which is "Comprehensive R Archive Network".
 
 On page 23, Urbanek speaks of the Bioconductor project.
 
+## Bioconductor
+
+### Bioconductor: open software development for computational biology and bioinformatics
+
+([Gentleman et al. 2004](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80))
+
+
+
+
+
 ____
 
 ## Paper on Image analysis
