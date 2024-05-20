@@ -438,6 +438,9 @@ ____
 
 Investopedia describes GARCH ([Generalized AutoRegressive Conditional Heteroskedasticity (GARCH)](https://www.investopedia.com/terms/g/garch.asp#:~:text=GARCH%20is%20a%20statistical%20modeling,an%20autoregressive%20moving%20average%20process.)) as a statistical model for analysing time-series data that is serially correlated.  Although on that reference, it refers to stock prices and other Securities, in the case of this project it could relate to EEG and ECG traces.
 
+[Exponential GARCH Modeling With Realized Measures of Volatility](https://www.jstor.org/stable/44166579)
+
+Exponential GARCH seems to be suited for modelling volatility in time series data, here applied to stocks, but could potentially be applied to Electrical Biometric traces also such as ECG [Biometric Recognition: A Systematic Review on Electrocardiogram Data Acquisition Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9921530/).
 ____
 
 ## The R Quest Paper
@@ -498,9 +501,6 @@ software development for computational biology and bioinformatics. Genome Biolog
 2004. ISSN 1474-760X. doi: 10.1186/gb-2004-5-10-r80. URL https://doi.org/10.1186/gb-2004-
 5-10-r80. / https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80 [p23]](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80)
 
-
-
-
 #### cran.r-project | Papers
 
 [Coordinate-Based Meta-Analysis of fMRI | Studies with R | by Andrea Stocco](https://journal.r-project.org/archive/2014/RJ-2014-020/RJ-2014-020.pdf)
@@ -508,7 +508,6 @@ software development for computational biology and bioinformatics. Genome Biolog
 ### Webpages
 
 #### R
-
 
 [Geyser eruption duration](https://gallery.shinyapps.io/083-front-page/)
 
@@ -520,6 +519,8 @@ software development for computational biology and bioinformatics. Genome Biolog
 
 [RShiny](https://www.rstudio.com/products/shiny/)
 
+### Models
+
 #### Machine Learning
 
 ##### Machine Learning in Python
@@ -530,7 +531,7 @@ python documentation for squared exponential periodic (SEP) kernel: [sklearn.gau
 
 [Random Forests | Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/)
 
-Statistical Models
+#### Statistical Models
 
 GARCH Investopedia ([Generalized AutoRegressive Conditional Heteroskedasticity (GARCH)](https://www.investopedia.com/terms/g/garch.asp#:~:text=GARCH%20is%20a%20statistical%20modeling,an%20autoregressive%20moving%20average%20process.))
 
@@ -553,3 +554,11 @@ GARCH Investopedia ([Generalized AutoRegressive Conditional Heteroskedasticity (
 [Literature Review](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/edit/main/PreparationForSubmission/LiteratureReview.md)
 
 [Quantitative Research Methods Research Project version 1](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/)
+
+### Biometrics
+
+#### ECG
+
+[Biometric Recognition: A Systematic Review on Electrocardiogram Data Acquisition Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9921530/)
+
+
