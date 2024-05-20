@@ -1,5 +1,9 @@
 # Literature Review
 
+## Abstract
+
+This is a literature review and experimental project to answer the research question: can music synthesis technologies be used in the modelling and analysis of EEG (brain wave) and ECG (heart electrical wave) traces.  Due to the more direct processing of images, fMRI images were replicated from studies.  It is also noted from the literature that both EEG (more commonly), and ECG (less commonly), can be done with fMRI. Literature was referenced which deals with machine learning and image analysis.  Also, RShiny basic tutorials were followed to demonstrate the use of the Framework to display analysis performed usng the programming language R, and to increase the number of R users and convert some to be R programmers.  Machine Learning and Statistical Models were referenced for different ways to approach image analysis and boundary detection.
+
 ## Table of Contents
 
 [Nomenclature](https://github.com/CoderSales/Quantitative-Research-Methods-Research-Project-version-1/blob/main/PreparationForSubmission/LiteratureReview.md#nomenclature)
@@ -71,10 +75,6 @@ EMR = Amazon Elastic MapReduce
 EEG = Electroencephalogram
 
 ECG / (EKG) = Electrocardiogram
-
-## Abstract
-
-This is a literature review and experimental project to answer the research question: can music synthesis technologies be used in the modelling and analysis of EEG (brain wave) and ECG (heart electrical wave) traces.  Due to the more direct processing of images, fMRI images were replicated from studies.  It is also noted from the literature that both EEG (more commonly), and ECG (less commonly), can be done with fMRI. Literature was referenced which deals with machine learning and image analysis.  Also, RShiny basic tutorials were followed to demonstrate the use of the Framework to display analysis performed usng the programming language R, and to increase the number of R users and convert some to be R programmers.  Machine Learning and Statistical Models were referenced for different ways to approach image analysis and boundary detection.
 
 ## Background
 
