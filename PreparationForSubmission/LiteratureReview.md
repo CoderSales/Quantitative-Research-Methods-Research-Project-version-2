@@ -274,8 +274,14 @@ The above abstract mentions that: "Event-related potentials (ERPs) and magnetic 
 
 "In this article, we consider in depth one type of approach, *mass univariate analyses*", "in which a large number of univariate tests, e.g., t-tests, can be properly used to compare ERPs/ERFs at an exhaustive number of time points and scalp locations."
 
-## References
+## Other Potential Applications
 
+EKG AND EEG analysis would be potential applications if a wave analysis platform could be made.
+
+Dubin, D. (1993) Rapid Interpretation of EKG's ... a programmed course Revised and Updated: Dubin's classic, simplified methodology for understanding EKG's 4th ed.
+
+
+## References
 
 ### Conferences
 
