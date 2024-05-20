@@ -426,7 +426,7 @@ based on the analytical eigendecomposition of the squared exponential periodic
 
 ____
 
-## Paper
+## The R Quest Paper
 
 [The R Quest: from Users to Developers | by Simon Urbanek](https://journal.r-project.org/archive/2021/RJ-2021-111/RJ-2021-111.pdf)
 
@@ -436,6 +436,7 @@ He mentions that "at some point an R user may become an R developer, crossing th
 
 He also defines the acronym CRAN which is "Comprehensive R Archive Network".
 
+On page 23, Urbanek speaks of the Bioconductor project.
 
 ____
 
