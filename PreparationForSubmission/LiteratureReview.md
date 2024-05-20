@@ -428,6 +428,10 @@ based on the analytical eigendecomposition of the squared exponential periodic
 
 ____
 
+In the ([Li and Ghosal 2017](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full) paper they "propose a nonparametric Bayesian method tailored to detect the boundary γ0."
+
+____
+
 ## The R Quest Paper
 
 [The R Quest: from Users to Developers | by Simon Urbanek](https://journal.r-project.org/archive/2021/RJ-2021-111/RJ-2021-111.pdf)
