@@ -286,6 +286,20 @@ I wonder if some of the sound processing techniques from the music recording ind
 
 ____
 
+##### A note on the development of electrical signals processing and digital emulators in music 
+
+Early Analog Synthesizers including the Moog used analog technology in synthesizers to produce sound from electricity directly.
+
+Frequency Modulation Synthesis was a breakthrough in the 1960s which gave rise to the Yamaha DX-7 Synthesizer which greatly influenced the music industry in the 1980s and 1990s.  
+
+Recently, The Legend Hz Synthesizer was demonstrated by Film Composer Hans Zimmer to have the ability to emulate elements of the Moog synthesizer sound. [Hans Zimmer presents THE LEGEND HZ Synthesizer | YouTube](https://youtu.be/pDIif8n8sXg?t=60)
+
+Is it possible that there may be some techniques used in musical synthesizer technology which could be reverse engineered, used to model or somehow applied to signals processing in EEG (brain wave electrical traces) and ECG (heart electrical traces), potentially incorporating statistical or machine learning models?
+
+To that end it is said that when listening to an orchestra, the brain literally "plays" the sounds that the entire orchestra is playing.
+
+____
+
 ### Google Chrome Extension
 
 Another Project I worked on to support this one was a Google Extension to allow referencing in a way that would create a title with a link that could be pasted into a markdown file like this one and would automatically be formatted as a working link.  The Extension is based on one of the introductory tutorials on making Google Extensions for Google Chrome, called tab-manager.  During this Research Project I wrote (or at least modified) my first Google Chrome Extension.
