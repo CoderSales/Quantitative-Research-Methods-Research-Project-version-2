@@ -430,6 +430,8 @@ ____
 
 In the ([Li and Ghosal 2017](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full) paper they "propose a nonparametric Bayesian method tailored to detect the boundary γ0."
 
+They also refer to the "squared exponential periodic (SEP) kernel", which is discussed in the python documentation here: [sklearn.gaussian_process.kernels.ExpSineSquared](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.ExpSineSquared.html).
+
 ____
 
 ## The R Quest Paper
@@ -513,6 +515,12 @@ software development for computational biology and bioinformatics. Genome Biolog
 [RShiny](https://www.rstudio.com/products/shiny/)
 
 #### Machine Learning
+
+##### Machine Learning in Python
+
+python documentation for squared exponential periodic (SEP) kernel: [sklearn.gaussian_process.kernels.ExpSineSquared](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.ExpSineSquared.html).
+
+##### Machine Learning in R
 
 [Random Forests | Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/)
 
