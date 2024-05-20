@@ -401,6 +401,23 @@ ____
 
 Li, Ghosal (2017) Bayesian detection of image boundaries, Ann. Statist. 45(5): 2190-2217 (October 2017). DOI: 10.1214/16-AOS1523 available: https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full
 
+## Concepts in paper
+
+### [p. 2192](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full)
+
+- Markov chain Monte Carlo (MCMC)
+
+from:
+
+"
+In the proposed Bayesian
+approach, an efficient Markov chain Monte Carlo (MCMC) sampling is designed
+based on the analytical eigendecomposition of the squared exponential periodic
+(SEP) kernel (see Section 5), for various noise distributions.
+"
+
+- kernel Hilbert space (RKHS) of the SEP Gaussian process
+
 ____
 
 ## References
