@@ -88,6 +88,16 @@ RShiny is a frontend framework for presenting analysis done using R visually in 
 
 For RShiny I completed at least 2 introductory tutorials.
 
+____
+
+The two Figures below show the RShiny Hello World App running.
+
+![image](/src/images/Screenshot-2024-04-15-111804-of-WebAppRunningInR.png)
+
+![image](/src/images/Screenshot-2024-04-15-111628-of-Web-App-Working.png)
+
+____
+
 The first allowed for a Web App to run from a single file.
 
 The second allowed for two files to run the website, an app.r file and a server.r file.  This configuration is compatible with the client-server Web paradigm.
@@ -285,12 +295,6 @@ ____
 ## Baysian Detection of Image Boundaries
 
 Li, Ghosal (2017) Bayesian detection of image boundaries, Ann. Statist. 45(5): 2190-2217 (October 2017). DOI: 10.1214/16-AOS1523 available: https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Bayesian-detection-of-image-boundaries/10.1214/16-AOS1523.full
-
-____
-
-![image](/src/images/Screenshot-2024-04-15-111804-of-WebAppRunningInR.png)
-
-![image](/src/images/Screenshot-2024-04-15-111628-of-Web-App-Working.png)
 
 ____
 
