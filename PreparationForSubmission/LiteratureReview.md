@@ -102,7 +102,7 @@ ____
 
 ![image of Code from app.R](/src/images/Screenshot-2024-04-15-121142CodeFrom-app-R.png)
 
-````r
+```r
 # Part 1 of 3: a call to the shinyApp function
 
 library(shiny)
@@ -166,6 +166,7 @@ server <- function(input, output) {
 }
 
 shinyApp(ui = ui, server = server)
+
 ```
 
 ____
