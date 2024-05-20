@@ -530,6 +530,10 @@ python documentation for squared exponential periodic (SEP) kernel: [sklearn.gau
 
 [Random Forests | Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/)
 
+Statistical Models
+
+GARCH Investopedia ([Generalized AutoRegressive Conditional Heteroskedasticity (GARCH)](https://www.investopedia.com/terms/g/garch.asp#:~:text=GARCH%20is%20a%20statistical%20modeling,an%20autoregressive%20moving%20average%20process.))
+
 #### cran.r-project | Documentation
 
 [randomForest: Breiman and Cutler's Random Forests for Classification and Regression](https://cran.r-project.org/web/packages/randomForest/index.html)
