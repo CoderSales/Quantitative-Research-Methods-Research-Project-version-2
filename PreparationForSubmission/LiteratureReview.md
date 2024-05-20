@@ -76,6 +76,10 @@ EEG = Electroencephalogram
 
 ECG / (EKG) = Electrocardiogram
 
+## Research Question
+
+Can music synthesis technologies be used in the modelling and analysis of EEG (brain wave) and ECG (heart electrical wave) traces?
+
 ## Background
 
 I began this Research Project by considering a few ideas.
