@@ -607,6 +607,18 @@ Secton 3.3 describes Recurrent Neural Networks and Section 3.3.2 talks about Bol
 
 Section 9.2 mentions that CNN's can process high-dimensional input, which could be potentially used to decompose sound waves into constituent elements.  It also says the pooling layer can down-sample input, which is beneficial for edge detection in image analysis.
 
+____
+
+## Introduction to Statistical Learning
+
+[An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+
+[An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/)
+
+Chapter 10 of this text gives information on Deep Learning including RNNs and CNNs, using Keras and TensorFlow from Google.  It starts with single layer Neural Networks and the MNIST handwritten dataset.  Then 10.2 goes on to MultiLayer Neural Networks.  Neural-Networks were accelerated at AT&T Bell Laboratories in the 1980s.  The encoding of a one to be the signal for which digit is represented in an output matrix is known as one-hot encoding. Figure 10.10 in Section 10.3.5 shows that a single image can have multiple elements identified probabilistically by a pretrained classifier CNN.  This type of model could potentially have application in Brain Imaging Analysis.
+
+[James et al. (2023)](https://www.statlearning.com/)
+
 ## Theory
 
 ### t distribution
@@ -789,6 +801,8 @@ ____
 ### Deep Learning
 
 [Emmert-Streib, F. et al. (2020) ‘An introductory review of Deep Learning for prediction models with Big Data’, Frontiers in Artificial Intelligence, 3., available: doi:10.3389/frai.2020.00004. / https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full, [available: 20-05-2024]](https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full)
+
+[James, G. et al. (2023) An introduction to statistical learning: With applications in Python. Cham, Switzerland: Springer. ](https://www.statlearning.com/)
 
 ____
 
