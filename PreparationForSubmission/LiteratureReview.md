@@ -505,6 +505,12 @@ The paper also mentions: "an ADHD classification model on MRI with extreme learn
 
 ____
 
+[AI-Powered Chest Radiology | Medical Whitepaper | Lunit Insight CXR | Lunit](https://asset.fujifilm.com/www/in/files/2021-05/8cf5de8dc33b4e3316b4177fa47286c6/Lunit_INSIGHT_CXR_Medical_White_Paper.pdf)
+
+This white paper mentions that images can be "freely uploaded to "[https://insight.lunit.io](https://insight.lunit.io)" for "real-time analysis".
+
+____
+
 
 
 
@@ -553,6 +559,8 @@ software development for computational biology and bioinformatics. Genome Biolog
 [Ramos-López, R. and Ana D. Maldonado, A., D. (2021) Analysis of Corneal Data in R with the rPACI Package](https://journal.r-project.org/archive/2021/RJ-2021-099/RJ-2021-099.pdf)
 
 ### Image Analysis
+
+[AI-Powered Chest Radiology | Medical Whitepaper | Lunit Insight CXR | Lunit](https://asset.fujifilm.com/www/in/files/2021-05/8cf5de8dc33b4e3316b4177fa47286c6/Lunit_INSIGHT_CXR_Medical_White_Paper.pdf)
 
 [Vasilev, Y., Vladzymyrskyy, A., Omelyanskaya, O., Blokhin, I., Kirpichev, Y., & Arzamasov, K. (2023). AI-Based CXR First Reading: Current Limitations to Ensure Practical Value. Diagnostics (Basel, Switzerland), 13(8), 1430. available: https://doi.org/10.3390/diagnostics13081430 / https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138086/ [accessed 20-05-2024].](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138086/)
 
