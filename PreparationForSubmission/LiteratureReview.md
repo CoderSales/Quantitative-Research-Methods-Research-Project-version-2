@@ -599,6 +599,11 @@ ____
 
 ____
 
+## Theory
+
+### t distribution
+
+[Lange ety al 1989)](https://www.tandfonline.com/doi/citedby/10.1080/01621459.1989.10478852?scroll=top&needAccess=true) state that the t-distribution extends the normal distribution.
 
 
 
@@ -769,6 +774,6 @@ ____
 
 ## Theory
 
-### t- distribution
+### t distribution
 
 [Lange, K. L., Little, R. J. A. and Taylor, J. M. G. (1989) ‘Robust Statistical Modeling Using the t Distribution’, Journal of the American Statistical Association, 84(408), pp. 881–896. doi: 10.1080/01621459.1989.10478852.](https://www.tandfonline.com/doi/citedby/10.1080/01621459.1989.10478852?scroll=top&needAccess=true)
